@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+.idea
+ValidateJsonReport.txt
+artifacts/*
+artifacts/
+reports/*
+reports/
+venv/
+*.json
+DeveloperGuide.md
+*.txt
+.git*
