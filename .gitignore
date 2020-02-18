@@ -7,7 +7,6 @@ artifacts/
 reports/*
 reports/
 venv/
-*.json
 DeveloperGuide.md
 *.txt
 .git*
