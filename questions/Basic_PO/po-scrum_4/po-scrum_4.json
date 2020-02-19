@@ -1,0 +1,37 @@
+{
+    "uid": "03fc4a3861350201f2f6e97a2233fe74f7ee8172ac18ec9da4e83efe29f74a7f",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is NOT a role in Scrum?",
+        "snippet": null,
+        "choices": [
+            "Product Manager",
+            "Scrum Master",
+            "Development Team",
+            "Product Owner"
+        ],
+        "answer": 0,
+        "explanation": [
+            "There are only three roles in Scrum: Scrum Master, Product Owner and Development Team. Other roles or titles are not recognized."
+        ]
+    }
+}

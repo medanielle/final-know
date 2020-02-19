@@ -1,0 +1,49 @@
+{
+    "uid": "0b761c9c0ba1e24ea7fd02dac6994d07b65823192c48e8de78c6b3f8276a8f2a",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        578,
+        579,
+        580,
+        662,
+        668,
+        1166,
+        1168,
+        1170
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following commands calls the kernel in Assembly programming?",
+        "snippet": null,
+        "choices": [
+            "mov 0x80",
+            "int 0x80",
+            "call 0x80",
+            "sys_exit"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: the mov opcode is used to mov contents into a register",
+            "Correct: the int opcode is used to call the kernel",
+            "Incorrect: call is not a valid opcode",
+            "Incorrect: sys_exit is not a valid opcode"
+        ]
+    }
+}

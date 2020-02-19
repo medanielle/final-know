@@ -1,0 +1,41 @@
+{
+    "uid": "85f80f056d4feb3d0b05f37fdefc0d72642aea8063dff32b303bec436d77d227",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        14,
+        24,
+        28
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following symbols are permitted within an identifier name?",
+        "snippet": null,
+        "choices": [
+            "$",
+            "@",
+            "_",
+            "."
+        ],
+        "answer": 2,
+        "explanation": [
+            "The underscore char _ is the only valid char listed among these special chars that are allowed within an identifier name."
+        ]
+    }
+}

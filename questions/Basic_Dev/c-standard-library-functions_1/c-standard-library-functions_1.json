@@ -1,0 +1,40 @@
+{
+    "uid": "0cbde07575bfb5eeabe0f0f95e11f2a8e77149769a040a029faaabd124807113",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.2"
+    ],
+    "ksas": [
+        295,
+        296
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In C programming, what command releases memory that was created on the heap?",
+        "snippet": null,
+        "choices": [
+            "memfree",
+            "free",
+            "dealloc",
+            "delete"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The free function is what is used to release any memory allocated with malloc."
+        ]
+    }
+}

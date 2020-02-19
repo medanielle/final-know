@@ -6,7 +6,7 @@
 
 ## What is the output for the above Python code snippet?
 
-KSAs: 90, 32, 42
+KSAs: 32, 42
 
 ## Answer
 | ***A*** | B | C | D |

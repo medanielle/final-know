@@ -1,0 +1,42 @@
+{
+    "uid": "922c1183c71a212d720757f88891ff9692f902fed29f7289192304ff0316fb0a",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In networking, which TCP flag means there is no more data to send?",
+        "snippet": null,
+        "choices": [
+            "ACK",
+            "FIN",
+            "RST",
+            "SYN"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: The Acknowledgement (ACK) flag confirms the receipt of the prior segment.",
+            "Correct: The Fin (FIN) flag signifies a proper termination of the connection, as there is no more data to transmit.",
+            "Incorrect: The Reset (RST) flag allows for the spontaneous termination of a connection.",
+            "Incorrect: The Synchronize (SYN) flag is the first sent to begin a TCP connection, specifically this flag calls for the hosts to synchronize sequence numbers."
+        ]
+    }
+}

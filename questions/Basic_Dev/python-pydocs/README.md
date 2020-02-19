@@ -1,6 +1,6 @@
 ## What python module automatically generates documentation from Python modules?
 
-KSAs: 49, 87
+KSAs: 87
 
 ## Answer
 | A | ***B*** | C | D |

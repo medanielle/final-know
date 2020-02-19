@@ -1,0 +1,37 @@
+{
+    "uid": "c6cdec417785de9e5574d6c21d3001af85759b797841409b676b916d40d5ab8d",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        1344
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What's the vertical axis in a typical burn-down chart?",
+        "snippet": null,
+        "choices": [
+            "The amount of remaining work",
+            "The progress",
+            "The technical debt",
+            "The capacity of the team"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The horizontal axis is time, the vertical axis is the remaining amount of work and the trend line shows the forecasted finish date if the Product Backlog and the team capacity stay the same."
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "25f6058bf8fa5cc6d24eb7800ed509f2181cc437a6ff7af5bf5b6d622f719887",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [],
+    "ksas": [
+        138
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 2,
+    "etc": 0.5,
+    "creation_date": "2020-01-06 18:46:03",
+    "revision_date": "2020-01-27 16:10:46",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What common data structure would you use the above structure for in C programming?",
+        "snippet": "1 | struct Node\n2 | {\n3 |    int data; \n4 |     struct Node *left;\n5 |    struct Node *right;\n6 | };\n7 |",
+        "choices": [
+            "Linked List",
+            "Binary Search Tree",
+            "Double Linked List",
+            "Vector"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: Linked list typically use a Node consisting of a data portion and a 'Next' pointer.",
+            "Correct: Trees in data structures typically use a Node consisting of a data portion and a 'Right' and 'Left' pointer for each branch of the tree",
+            "Incorrect: Double Linked list typically use a Node consisting of a data portion and a 'Next' and 'Previous' pointer.",
+            "Incorrect: a vector is a data structure used in C++ and is similar to a dynamic array"
+        ]
+    }
+}

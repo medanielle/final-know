@@ -1,0 +1,48 @@
+{
+    "uid": "0f03dd1587a5e4b7bcf50b0c267cff7544862d2bf8992332a969f52d8d894c1b",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, what's contained in the rax register when finished?",
+        "snippet": "1 | mov rax, 2\n2 | shr rax, 2\n3 | shl rax, 2\n4 | ",
+        "choices": [
+            "2",
+            "1",
+            "0",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": [
+            "mov rax, 2 puts ...00000010 into rax, shr (shift right) 2, shifts bits 2 to right resulting in ...00000000 in rax, shl (shift left) 1 shifts all bits one to left but has no affect because register is all zeros"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "uid": "18a9e7e053adf5dfaa6f42b7a34b0d13be64a192d6d5384e5a66d662e4d6b827",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        573,
+        574,
+        596,
+        597,
+        659,
+        1166,
+        1167
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "This flag is set if the result of an add would have set bit 33 (in x86), or bit 65 (in x86_64).",
+        "snippet": null,
+        "choices": [
+            "Zero Flag (ZF)",
+            "Carry Flag (CF)",
+            "Sign Flag (SF)",
+            "Bit Flag (BF)"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: this flag gets set if an arthmetic result is zero",
+            "Correct: this flag is set if the result of an add would have set bit 33 (in x86), or bit 65 (in x86_64)",
+            "Incorrect: this flag is set to indicate the result of an operation is negative",
+            "Incorrect: there is no Bit Flag"
+        ]
+    }
+}

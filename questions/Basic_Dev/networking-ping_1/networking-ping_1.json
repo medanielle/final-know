@@ -1,0 +1,43 @@
+{
+    "uid": "320760f941d29369fb33934832f45267fb1287a394b1dda0fcaf35c71c6a9837",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1 !JQR"
+    ],
+    "ksas": [
+        227,
+        1302
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The ping command uses what protocol?",
+        "snippet": null,
+        "choices": [
+            "ICMP",
+            "HTTP",
+            "UDP",
+            "ARP"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: ICMP sends a small packet of information containing an ICMP ECHO_REQUEST to a specified computer, which then sends an ECHO_REPLY packet in return.",
+            "Incorrect: HTTP is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted.",
+            "Incorrect: UDP is an alternative communications protocol to TCP used primarily for establishing low-latency and loss-tolerating connections between applications on the internet.",
+            "Incorrect: ARP is a protocol used by the Internet Protocol (IP), specifically IPv4, to map IP network addresses to the hardware addresses used by a data link protocol."
+        ]
+    }
+}

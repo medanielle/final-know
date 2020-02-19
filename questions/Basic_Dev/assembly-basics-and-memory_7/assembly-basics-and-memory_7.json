@@ -1,0 +1,43 @@
+{
+    "uid": "e5236a0284b32fc8713893fd11df7f9b5f817fbabe700ed09901ed08ca8f3121",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        576,
+        671
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which is the fastest memory component to access?",
+        "snippet": null,
+        "choices": [
+            "solid state drive",
+            "RAM",
+            "cache",
+            "registers"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: A Solid State Drive is a storage mechanism, not memory",
+            "Incorrect: RAM memory is slower to access than cache or registers",
+            "Incorrect: Cache is faster than RAM but still slower than registers",
+            "Correct: Registers provide the most immediate access for memory"
+        ]
+    }
+}

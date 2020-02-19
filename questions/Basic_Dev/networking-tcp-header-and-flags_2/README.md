@@ -1,6 +1,6 @@
 ## In networking, which TCP flag means there is no more data to send?
 
-KSAs: 216, 1298
+KSAs: 216
 
 ## Answer
 | A | ***B*** | C | D |

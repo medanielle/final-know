@@ -1,0 +1,41 @@
+{
+    "uid": "39f0a373e869ccf052510f29372dc5bb2fd3d62711fc033019b80579901d0fcd",
+    "topic": "Assembly",
+    "version": "x86",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        647,
+        655,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-08-15",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The last statement in an Assembly source program should be:",
+        "snippet": null,
+        "choices": [
+            "stop",
+            "end",
+            "return",
+            "exit"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The end statement in Assembly is the last line of the program or function."
+        ]
+    }
+}

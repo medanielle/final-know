@@ -539,7 +539,7 @@ Click [here](questions/Basic_Dev/c-assign-vs-equal_1/README.md) to see the answe
 
 ## What common data structure would you use the above structure for in C programming?
 
-KSAs: 405
+KSAs: 138
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -802,7 +802,7 @@ Click [here](questions/Basic_Dev/c-functions_1/README.md) to see the answers.
 
 ### Begin C-GROUP_1 Questions
 
-Please refer to the code snippet below for the following 14 question(s).
+Please refer to the code snippet below for the following 56 question(s).
 
 ```c
 1  | #include <stdio.h>
@@ -844,6 +844,36 @@ KSAs: 255, 265
 
 Click [here](questions/Basic_Dev/c-group_1/c-casting_1/README.md) to see the answers.
 
+## Which of the following lines of code contain a type cast?
+
+KSAs: 255, 265
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 4 | 12 | 25 | 23 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-casting_1/README.md) to see the answers.
+
+## Which of the following lines of code contain a type cast?
+
+KSAs: 255, 265
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 4 | 12 | 25 | 23 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-casting_1/README.md) to see the answers.
+
+## Which of the following lines of code contain a type cast?
+
+KSAs: 255, 265
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 4 | 12 | 25 | 23 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-casting_1/README.md) to see the answers.
+
 ## Which line of code contains a preprocessor directive that creates a named constant?
 
 KSAs: 264
@@ -853,6 +883,66 @@ KSAs: 264
 | 2 | 10 | 4 | 16 |
 
 Click [here](questions/Basic_Dev/c-group_1/c-directives_1/README.md) to see the answers.
+
+## Which line of code contains a preprocessor directive that creates a named constant?
+
+KSAs: 264
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 2 | 10 | 4 | 16 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-directives_1/README.md) to see the answers.
+
+## Which line of code contains a preprocessor directive that creates a named constant?
+
+KSAs: 264
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 2 | 10 | 4 | 16 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-directives_1/README.md) to see the answers.
+
+## Which line of code contains a preprocessor directive that creates a named constant?
+
+KSAs: 264
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 2 | 10 | 4 | 16 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-directives_1/README.md) to see the answers.
+
+## Which line of code executes the getQuotient function?
+
+KSAs: 256
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 6 | 12 | 23 | 25 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_1/README.md) to see the answers.
+
+## Which line of code executes the getQuotient function?
+
+KSAs: 256
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 6 | 12 | 23 | 25 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_1/README.md) to see the answers.
+
+## Which line of code executes the getQuotient function?
+
+KSAs: 256
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 6 | 12 | 23 | 25 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_1/README.md) to see the answers.
 
 ## Which line of code executes the getQuotient function?
 
@@ -874,6 +964,36 @@ KSAs: 256
 
 Click [here](questions/Basic_Dev/c-group_1/c-functions_2/README.md) to see the answers.
 
+## Which line of code contains a function prototype?
+
+KSAs: 256
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 6 | 12 | 19 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_2/README.md) to see the answers.
+
+## Which line of code contains a function prototype?
+
+KSAs: 256
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 6 | 12 | 19 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_2/README.md) to see the answers.
+
+## Which line of code contains a function prototype?
+
+KSAs: 256
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 6 | 12 | 19 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_2/README.md) to see the answers.
+
 ## What is the return type of the getQuotient function?
 
 KSAs: 253, 255, 256, 259
@@ -883,6 +1003,66 @@ KSAs: 253, 255, 256, 259
 | float | int | void | NULL |
 
 Click [here](questions/Basic_Dev/c-group_1/c-functions_3/README.md) to see the answers.
+
+## What is the return type of the getQuotient function?
+
+KSAs: 253, 255, 256, 259
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| float | int | void | NULL |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_3/README.md) to see the answers.
+
+## What is the return type of the getQuotient function?
+
+KSAs: 253, 255, 256, 259
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| float | int | void | NULL |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_3/README.md) to see the answers.
+
+## What is the return type of the getQuotient function?
+
+KSAs: 253, 255, 256, 259
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| float | int | void | NULL |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_3/README.md) to see the answers.
+
+## What would happen if on line 12 you passed two floats instead of two ints?
+
+KSAs: 255, 256, 257, 265
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| The values passed would be floating point numbers | The values passed would be truncated and passed as integers | The values would be rounded to the nearest int and passed | Compile error |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_4/README.md) to see the answers.
+
+## What would happen if on line 12 you passed two floats instead of two ints?
+
+KSAs: 255, 256, 257, 265
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| The values passed would be floating point numbers | The values passed would be truncated and passed as integers | The values would be rounded to the nearest int and passed | Compile error |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_4/README.md) to see the answers.
+
+## What would happen if on line 12 you passed two floats instead of two ints?
+
+KSAs: 255, 256, 257, 265
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| The values passed would be floating point numbers | The values passed would be truncated and passed as integers | The values would be rounded to the nearest int and passed | Compile error |
+
+Click [here](questions/Basic_Dev/c-group_1/c-functions_4/README.md) to see the answers.
 
 ## What would happen if on line 12 you passed two floats instead of two ints?
 
@@ -904,6 +1084,36 @@ KSAs: 295, 296
 
 Click [here](questions/Basic_Dev/c-group_1/c-heap_1/README.md) to see the answers.
 
+## Which line of code places some data in heap memory?
+
+KSAs: 295, 296
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 12 | 16 | 18 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-heap_1/README.md) to see the answers.
+
+## Which line of code places some data in heap memory?
+
+KSAs: 295, 296
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 12 | 16 | 18 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-heap_1/README.md) to see the answers.
+
+## Which line of code places some data in heap memory?
+
+KSAs: 295, 296
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 12 | 16 | 18 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-heap_1/README.md) to see the answers.
+
 ## Which line of code is allocating heap memory?
 
 KSAs: 295, 296
@@ -913,6 +1123,66 @@ KSAs: 295, 296
 | 10 | 12 | 14 | 27 |
 
 Click [here](questions/Basic_Dev/c-group_1/c-heap_2/README.md) to see the answers.
+
+## Which line of code is allocating heap memory?
+
+KSAs: 295, 296
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 12 | 14 | 27 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-heap_2/README.md) to see the answers.
+
+## Which line of code is allocating heap memory?
+
+KSAs: 295, 296
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 12 | 14 | 27 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-heap_2/README.md) to see the answers.
+
+## Which line of code is allocating heap memory?
+
+KSAs: 295, 296
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 12 | 14 | 27 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-heap_2/README.md) to see the answers.
+
+## For memory management, what is missing?
+
+KSAs: 262, 1338
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| p[0] = NULL; | p = NULL; | delete *p; | free(p) |
+
+Click [here](questions/Basic_Dev/c-group_1/c-mem-manage_1/README.md) to see the answers.
+
+## For memory management, what is missing?
+
+KSAs: 262, 1338
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| p[0] = NULL; | p = NULL; | delete *p; | free(p) |
+
+Click [here](questions/Basic_Dev/c-group_1/c-mem-manage_1/README.md) to see the answers.
+
+## For memory management, what is missing?
+
+KSAs: 262, 1338
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| p[0] = NULL; | p = NULL; | delete *p; | free(p) |
+
+Click [here](questions/Basic_Dev/c-group_1/c-mem-manage_1/README.md) to see the answers.
 
 ## For memory management, what is missing?
 
@@ -934,6 +1204,36 @@ KSAs: 262, 263
 
 Click [here](questions/Basic_Dev/c-group_1/c-pointers-arrays_1/README.md) to see the answers.
 
+## How many elements are in the array pointed to by p?
+
+KSAs: 262, 263
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 40 | 80 | 8 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers-arrays_1/README.md) to see the answers.
+
+## How many elements are in the array pointed to by p?
+
+KSAs: 262, 263
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 40 | 80 | 8 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers-arrays_1/README.md) to see the answers.
+
+## How many elements are in the array pointed to by p?
+
+KSAs: 262, 263
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 10 | 40 | 80 | 8 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers-arrays_1/README.md) to see the answers.
+
 ## Which of the following variables contain a memory address?
 
 KSAs: 262
@@ -943,6 +1243,66 @@ KSAs: 262
 | p | z | y | All the above |
 
 Click [here](questions/Basic_Dev/c-group_1/c-pointers_1/README.md) to see the answers.
+
+## Which of the following variables contain a memory address?
+
+KSAs: 262
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| p | z | y | All the above |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers_1/README.md) to see the answers.
+
+## Which of the following variables contain a memory address?
+
+KSAs: 262
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| p | z | y | All the above |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers_1/README.md) to see the answers.
+
+## Which of the following variables contain a memory address?
+
+KSAs: 262
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| p | z | y | All the above |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers_1/README.md) to see the answers.
+
+## On which line of code is the pointer dereferenced?
+
+KSAs: 262
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 16 | 18 | 12 | 14 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers_2/README.md) to see the answers.
+
+## On which line of code is the pointer dereferenced?
+
+KSAs: 262
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 16 | 18 | 12 | 14 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers_2/README.md) to see the answers.
+
+## On which line of code is the pointer dereferenced?
+
+KSAs: 262
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 16 | 18 | 12 | 14 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-pointers_2/README.md) to see the answers.
 
 ## On which line of code is the pointer dereferenced?
 
@@ -964,6 +1324,66 @@ KSAs: 252, 256, 258
 
 Click [here](questions/Basic_Dev/c-group_1/c-scope_1/README.md) to see the answers.
 
+## How many local variables are created in the main function?
+
+KSAs: 252, 256, 258
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 0 | 2 | 3 | 4 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-scope_1/README.md) to see the answers.
+
+## How many local variables are created in the main function?
+
+KSAs: 252, 256, 258
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 0 | 2 | 3 | 4 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-scope_1/README.md) to see the answers.
+
+## How many local variables are created in the main function?
+
+KSAs: 252, 256, 258
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 0 | 2 | 3 | 4 |
+
+Click [here](questions/Basic_Dev/c-group_1/c-scope_1/README.md) to see the answers.
+
+## Which of the following variables declare memory in stack memory?
+
+KSAs: 294
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| z | p | denominator | All the above |
+
+Click [here](questions/Basic_Dev/c-group_1/c-stack_1/README.md) to see the answers.
+
+## Which of the following variables declare memory in stack memory?
+
+KSAs: 294
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| z | p | denominator | All the above |
+
+Click [here](questions/Basic_Dev/c-group_1/c-stack_1/README.md) to see the answers.
+
+## Which of the following variables declare memory in stack memory?
+
+KSAs: 294
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| z | p | denominator | All the above |
+
+Click [here](questions/Basic_Dev/c-group_1/c-stack_1/README.md) to see the answers.
+
 ## Which of the following variables declare memory in stack memory?
 
 KSAs: 294
@@ -981,7 +1401,7 @@ Click [here](questions/Basic_Dev/c-group_1/c-stack_1/README.md) to see the answe
 
 ## Which of these data structures has a constant search time for the worst case scenario?
 
-KSAs: 263, 269, 407
+KSAs: 140, 263, 269
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1474,7 +1894,7 @@ Click [here](questions/Basic_Dev/c-variable-names_1/README.md) to see the answer
 
 ## This protocol is similar to DNS because of the way it maps layer 3 to layer 2 addresses.
 
-KSAs: 218, 223, 225, 1294, 1296, 1298
+KSAs: 218, 223, 225, 1294, 1296
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1494,7 +1914,7 @@ Click [here](questions/Basic_Dev/networking-class-A-address/README.md) to see th
 
 ## The Logical Link Control (LLC) layer is a sub-layer to which Open System Interconnection (OSI) layer?
 
-KSAs: 218, 1298
+KSAs: 218
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1534,7 +1954,7 @@ Click [here](questions/Basic_Dev/networking-http_1/README.md) to see the answers
 
 ## A server sends a SYN-ACK to a client's SYN request. This is step 2 of a 3-way process of what communication protocol?
 
-KSAs: 216, 1298
+KSAs: 216
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1574,7 +1994,7 @@ Click [here](questions/Basic_Dev/networking-ipv6-addresses-2/README.md) to see t
 
 ## In networking, what Layer 2 device connects two independent physical networks, does not perform error checking and does not have a buffer?
 
-KSAs: 218, 238, 1298
+KSAs: 218, 238
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1604,7 +2024,7 @@ Click [here](questions/Basic_Dev/networking-network-byte-order_2/README.md) to s
 
 ## Jimmy sent a package to Dean and noticed the source port was 51234 and the destination port was 666 on one of the TCP packets.  The difference between these two port types is ___.
 
-KSAs: 216, 217, 1293, 1298
+KSAs: 216, 217, 1293
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1654,7 +2074,7 @@ Click [here](questions/Basic_Dev/networking-order-of-operations_3/README.md) to 
 
 ## Which of these is not an application layer protocol?
 
-KSAs: 216, 218, 224, 226, 1295, 1297, 1298
+KSAs: 216, 218, 224, 226, 1295, 1297
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1664,7 +2084,7 @@ Click [here](questions/Basic_Dev/networking-osi-layer-7_1/README.md) to see the 
 
 ## One difference between a switch and a hub is that the hub operates at the ___ layer of the Open Systems Interconnection (OSI) model.
 
-KSAs: 218, 238, 1298
+KSAs: 218, 238
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1674,7 +2094,7 @@ Click [here](questions/Basic_Dev/networking-osi-layers_1/README.md) to see the a
 
 ## What is one difference between the Open Systems Interconnection (OSI) Network and Transport Layers?
 
-KSAs: 218, 1298
+KSAs: 218
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1694,7 +2114,7 @@ Click [here](questions/Basic_Dev/networking-ping_1/README.md) to see the answers
 
 ## This networking OSI layer establishes, manages and terminates connections between applications
 
-KSAs: 218, 1298
+KSAs: 218
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1704,7 +2124,7 @@ Click [here](questions/Basic_Dev/networking-session-layer/README.md) to see the 
 
 ## A TCP socket is different from a UDP socket because ___.
 
-KSAs: 216, 217, 219, 220, 1298, 1305
+KSAs: 216, 217, 219, 220, 1305
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1734,7 +2154,7 @@ Click [here](questions/Basic_Dev/networking-switches_1/README.md) to see the ans
 
 ## In networking, which number type starts at the random number chosen during the handshake and is cumulative and is used to maintain accountability of all packets?
 
-KSAs: 216, 1298
+KSAs: 216
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1744,7 +2164,7 @@ Click [here](questions/Basic_Dev/networking-syn-and-ack_1/README.md) to see the 
 
 ## The first item in a TCP header is:
 
-KSAs: 216, 1298
+KSAs: 216
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1754,7 +2174,7 @@ Click [here](questions/Basic_Dev/networking-tcp-header-and-flags_1/README.md) to
 
 ## In networking, which TCP flag means there is no more data to send?
 
-KSAs: 216, 1298
+KSAs: 216
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1764,7 +2184,7 @@ Click [here](questions/Basic_Dev/networking-tcp-header-and-flags_2/README.md) to
 
 ## The TCP process may not write and read data at the same speed, so ______ are needed for storage.
 
-KSAs: 216, 1298
+KSAs: 216
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -1774,7 +2194,7 @@ Click [here](questions/Basic_Dev/networking-tcp-process_1/README.md) to see the 
 
 ## Compared to protocols like DNS or DHCP, UDP is different because ___.
 
-KSAs: 217, 218, 225, 228, 1296, 1298, 1303
+KSAs: 217, 218, 225, 228, 1296, 1303
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -2006,7 +2426,7 @@ Click [here](questions/Basic_Dev/python-getter-setter/README.md) to see the answ
 
 ### Begin PYTHON-GROUP_1 Questions
 
-Please refer to the code snippet below for the following 9 question(s).
+Please refer to the code snippet below for the following 36 question(s).
 
 ```python
 1  | def getAverage(GoT):
@@ -2047,6 +2467,36 @@ KSAs: 31, 32, 33
 
 Click [here](questions/Basic_Dev/python-group_1/question_3/README.md) to see the answers.
 
+## What type of container is peeps?
+
+KSAs: 31, 32, 33
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Set | Dictionary | Tuple |
+
+Click [here](questions/Basic_Dev/python-group_1/question_3/README.md) to see the answers.
+
+## What type of container is peeps?
+
+KSAs: 31, 32, 33
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Set | Dictionary | Tuple |
+
+Click [here](questions/Basic_Dev/python-group_1/question_3/README.md) to see the answers.
+
+## What type of container is peeps?
+
+KSAs: 31, 32, 33
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Set | Dictionary | Tuple |
+
+Click [here](questions/Basic_Dev/python-group_1/question_3/README.md) to see the answers.
+
 ## What type of container is castNames?
 
 KSAs: 31, 32, 33
@@ -2056,6 +2506,66 @@ KSAs: 31, 32, 33
 | List | Set | Dictionary | Tuple |
 
 Click [here](questions/Basic_Dev/python-group_1/question_4/README.md) to see the answers.
+
+## What type of container is castNames?
+
+KSAs: 31, 32, 33
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Set | Dictionary | Tuple |
+
+Click [here](questions/Basic_Dev/python-group_1/question_4/README.md) to see the answers.
+
+## What type of container is castNames?
+
+KSAs: 31, 32, 33
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Set | Dictionary | Tuple |
+
+Click [here](questions/Basic_Dev/python-group_1/question_4/README.md) to see the answers.
+
+## What type of container is castNames?
+
+KSAs: 31, 32, 33
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Set | Dictionary | Tuple |
+
+Click [here](questions/Basic_Dev/python-group_1/question_4/README.md) to see the answers.
+
+## What is the data type of avg?
+
+KSAs: 40, 41
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| Float | Integer | Complex | Double |
+
+Click [here](questions/Basic_Dev/python-group_1/question_6/README.md) to see the answers.
+
+## What is the data type of avg?
+
+KSAs: 40, 41
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| Float | Integer | Complex | Double |
+
+Click [here](questions/Basic_Dev/python-group_1/question_6/README.md) to see the answers.
+
+## What is the data type of avg?
+
+KSAs: 40, 41
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| Float | Integer | Complex | Double |
+
+Click [here](questions/Basic_Dev/python-group_1/question_6/README.md) to see the answers.
 
 ## What is the data type of avg?
 
@@ -2077,6 +2587,36 @@ KSAs: 32, 43
 
 Click [here](questions/Basic_Dev/python-group_1/question_7/README.md) to see the answers.
 
+## What is the result of line 25 executing?
+
+KSAs: 32, 43
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| Prints the string Arya | Prints Nothing | List index out of range error | Prints all strings in the list |
+
+Click [here](questions/Basic_Dev/python-group_1/question_7/README.md) to see the answers.
+
+## What is the result of line 25 executing?
+
+KSAs: 32, 43
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| Prints the string Arya | Prints Nothing | List index out of range error | Prints all strings in the list |
+
+Click [here](questions/Basic_Dev/python-group_1/question_7/README.md) to see the answers.
+
+## What is the result of line 25 executing?
+
+KSAs: 32, 43
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| Prints the string Arya | Prints Nothing | List index out of range error | Prints all strings in the list |
+
+Click [here](questions/Basic_Dev/python-group_1/question_7/README.md) to see the answers.
+
 ## Which line contains a type cast?
 
 KSAs: 25
@@ -2086,6 +2626,66 @@ KSAs: 25
 | 1 | 8 | 18 | 20 |
 
 Click [here](questions/Basic_Dev/python-group_1/question_8/README.md) to see the answers.
+
+## Which line contains a type cast?
+
+KSAs: 25
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 1 | 8 | 18 | 20 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_8/README.md) to see the answers.
+
+## Which line contains a type cast?
+
+KSAs: 25
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 1 | 8 | 18 | 20 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_8/README.md) to see the answers.
+
+## Which line contains a type cast?
+
+KSAs: 25
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 1 | 8 | 18 | 20 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_8/README.md) to see the answers.
+
+## What type of container is names?
+
+KSAs: 42, 43
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Array | String | Set |
+
+Click [here](questions/Basic_Dev/python-group_1/question_9/README.md) to see the answers.
+
+## What type of container is names?
+
+KSAs: 42, 43
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Array | String | Set |
+
+Click [here](questions/Basic_Dev/python-group_1/question_9/README.md) to see the answers.
+
+## What type of container is names?
+
+KSAs: 42, 43
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| List | Array | String | Set |
+
+Click [here](questions/Basic_Dev/python-group_1/question_9/README.md) to see the answers.
 
 ## What type of container is names?
 
@@ -2107,6 +2707,36 @@ KSAs: 43, 45, 80
 
 Click [here](questions/Basic_Dev/python-group_1/question_10/README.md) to see the answers.
 
+## On line 14, what is printed?
+
+KSAs: 43, 45, 80
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 2 | Jon | Cersei | 16 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_10/README.md) to see the answers.
+
+## On line 14, what is printed?
+
+KSAs: 43, 45, 80
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 2 | Jon | Cersei | 16 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_10/README.md) to see the answers.
+
+## On line 14, what is printed?
+
+KSAs: 43, 45, 80
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 2 | Jon | Cersei | 16 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_10/README.md) to see the answers.
+
 ## What value does the getAverage function return?
 
 KSAs: 24, 59, 80
@@ -2116,6 +2746,66 @@ KSAs: 24, 59, 80
 | 12 | 6 | 14 | 2 |
 
 Click [here](questions/Basic_Dev/python-group_1/question_11/README.md) to see the answers.
+
+## What value does the getAverage function return?
+
+KSAs: 24, 59, 80
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 12 | 6 | 14 | 2 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_11/README.md) to see the answers.
+
+## What value does the getAverage function return?
+
+KSAs: 24, 59, 80
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 12 | 6 | 14 | 2 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_11/README.md) to see the answers.
+
+## What value does the getAverage function return?
+
+KSAs: 24, 59, 80
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| 12 | 6 | 14 | 2 |
+
+Click [here](questions/Basic_Dev/python-group_1/question_11/README.md) to see the answers.
+
+## What is occurring on line 16?
+
+KSAs: 31
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| The value associated with 'Tyrion' is changed to 18 | An additional key/value pair of 'Tyrion' and 18 is added | The value associated with 'Tyrion' is increased by 18 | None of the above |
+
+Click [here](questions/Basic_Dev/python-group_1/question_12/README.md) to see the answers.
+
+## What is occurring on line 16?
+
+KSAs: 31
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| The value associated with 'Tyrion' is changed to 18 | An additional key/value pair of 'Tyrion' and 18 is added | The value associated with 'Tyrion' is increased by 18 | None of the above |
+
+Click [here](questions/Basic_Dev/python-group_1/question_12/README.md) to see the answers.
+
+## What is occurring on line 16?
+
+KSAs: 31
+
+| A | B | C | D |
+| :--- | :--- | :--- | :--- |
+| The value associated with 'Tyrion' is changed to 18 | An additional key/value pair of 'Tyrion' and 18 is added | The value associated with 'Tyrion' is increased by 18 | None of the above |
+
+Click [here](questions/Basic_Dev/python-group_1/question_12/README.md) to see the answers.
 
 ## What is occurring on line 16?
 
@@ -2336,7 +3026,7 @@ Click [here](questions/Basic_Dev/python-object-type/README.md) to see the answer
 
 ## Which of the following is NOT a keyword used in Python exception handling?
 
-KSAs: 78, 79
+KSAs: 79
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -2366,7 +3056,7 @@ Click [here](questions/Basic_Dev/python-operators_3/README.md) to see the answer
 
 ## What python module automatically generates documentation from Python modules?
 
-KSAs: 49, 87
+KSAs: 87
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |
@@ -2466,7 +3156,7 @@ Click [here](questions/Basic_Dev/python-strings_5/README.md) to see the answers.
 
 ## What is the output for the above Python code snippet?
 
-KSAs: 90, 32, 42
+KSAs: 32, 42
 
 | A | B | C | D |
 | :--- | :--- | :--- | :--- |

@@ -1,0 +1,37 @@
+{
+    "uid": "9784d2918620902eee9b81c49dcb53b898d3246784af5ed54038030e4297aa8f",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-12 15:52:03",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "How much time should be spent carrying out Product Backlog Refinement?",
+        "snippet": null,
+        "choices": [
+            "As much as the Product Owner and Development Team agree is necessary to create enough ready Product Backlog Items",
+            "As much as the Product Owner deems necessary to create enough ready Product Backlog Items",
+            "Up to 10% of the capacity of the Development Team in a typical Sprint, but as much as 90% in early Sprints",
+            "Up to 10% of the capacity of the Development Team"
+        ],
+        "answer": 0,
+        "explanation": [
+            "As per the Scrum Guide: \"Refinement usually consumes no more than 10% of the capacity of the Development Team. However, Product Backlog items can be updated at any time by the Product Owner or at the Product Owner's discretion.\" The keyword here is \"usually\", which allows more than 10% if necessary. It's up to the team (PO and Dev Team) to decide how to balance the time, value and risk of investing their upfront time/effort in order to return greater value in the future. \"Up to 10% of the capacity of the Development Team\" is as it places an absolute limit on the team's time."
+        ]
+    }
+}

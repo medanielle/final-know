@@ -1,6 +1,6 @@
 ## One difference between a switch and a hub is that the hub operates at the ___ layer of the Open Systems Interconnection (OSI) model.
 
-KSAs: 218, 238, 1298
+KSAs: 218, 238
 
 ## Answer
 | ***A*** | B | C | D |

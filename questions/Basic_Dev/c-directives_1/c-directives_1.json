@@ -1,0 +1,39 @@
+{
+    "uid": "6dcdd3ab644d86d0d9e09c5c67325204665738e0ecabc406392bbd1ec0362aab",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        261
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:39:06",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output of the above C code snippet?",
+        "snippet": "1 | const int a = 10;\n2 | printf(\"%d\",++a);\n3 | ",
+        "choices": [
+            "11",
+            "10",
+            "Compiler error",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": [
+            "A compiler error will incur because a is declared as a const and any code that attempts to modify a will cause the compiler to error."
+        ]
+    }
+}

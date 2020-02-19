@@ -1,0 +1,37 @@
+{
+    "uid": "0521ba21b2e3a5a0f85a5480364075c2a06b2f951ba03a9fec19c761d0a2c127",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [],
+    "ksas": [
+        296
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-18 20:22:58",
+    "revision_date": "2019-12-18 20:22:58",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "When is the memory for x being allocated in the above C snippet?",
+        "snippet": "1 | int x = 2; \n2 | ",
+        "choices": [
+            "Dynamically, at run time",
+            "Statically, at compile time",
+            "Virtually, when requested",
+            "Preliminary, just before accessed"
+        ],
+        "answer": 1,
+        "explanation": [
+            "All variables are allocated memory on the stack"
+        ]
+    }
+}

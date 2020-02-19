@@ -1,0 +1,39 @@
+{
+    "uid": "e2972730b0a4a63261896397502f0a78f0879d437bb6a8a580caf6a8ec6770ba",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        32
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:39:06",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What will be the output of the above Python code snippet?",
+        "snippet": "1 | list1 = [1, 2, 3, 4]\n2 | list2 = [3, 4, 7, 8]\n3 | \n4 | print (len(list1 + list2))\n5 | ",
+        "choices": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Since list1 + list2 produces a merged list of both list1 and list2, the output becomes 8 because list1 and list2 have a length of 4 each; 4 + 4 = 8."
+        ]
+    }
+}

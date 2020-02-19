@@ -1,0 +1,39 @@
+{
+    "uid": "7af182ccef4eea95fabaf89e5771fb2dae05a41e9b68ad4f1e036c429b540925",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853,
+        1374
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is a responsibility of the Project Manager in Scrum?",
+        "snippet": null,
+        "choices": [
+            "There's no Project Manager in Scrum",
+            "Making high-level decisions",
+            "Authorizing Sprints",
+            "Planning releases",
+            "Preparing the Project Plan and Gantt Charts"
+        ],
+        "answer": 0,
+        "explanation": [
+            "There are only three roles in Scrum and it's not allowed to add other roles or titles: Product Owner, Scrum Master and Development Team"
+        ]
+    }
+}

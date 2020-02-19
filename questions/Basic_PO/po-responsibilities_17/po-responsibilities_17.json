@@ -1,0 +1,38 @@
+{
+    "uid": "b56dc390bcb17c8cd234e3fe7d31f3f83803eb9d0850c0a843cd5d93c9c609fb",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-12 15:52:03",
+    "revision_date": "2019-12-12 15:52:03",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who is responsible for maximizing the value of the work the Development Team performs?",
+        "snippet": null,
+        "choices": [
+            "The Product Owner",
+            "The Scrum Master",
+            "The Development Team",
+            "The Scrum Team"
+        ],
+        "answer": 0,
+        "explanation": [
+            "While you might be tempted to select the Development Team because they are supposed to be self-organized, this is the responsibility of the Product Owner. This is so, because the value of the developers' work is highly dependent on what sequence of items they are developing and this is decided on by the Product Owner. Not that the Product Owner does not give the developers a list of items to develop during the Sprint. The Product Owner only orders the Product Backlog and the developers pick as many items as they like (from the top of the backlog) in the Sprint Planning meeting."
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "0f0e2ae6c36cde76b6f8bcede635dd01e9db53a95ba9506355ba53b69209e660",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        884
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who owns the Sprint Backlog?",
+        "snippet": null,
+        "choices": [
+            "Scrum Master",
+            "Product Owner",
+            "Development Team",
+            "Scrum Team"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The Development Team owns the Sprint Backlog and the Product Owner owns the Product Backlog."
+        ]
+    }
+}

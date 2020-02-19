@@ -1,0 +1,39 @@
+{
+    "uid": "15617367a676e97c2a67e1cc44ab900b03899e0c2146bf17709b3ce7393322b2",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        32
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-09 05:59:04",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | a = ['Python', 'is', 'not', 'tough']\n2 | for i in range(len(a)):\n3 |      print (i, a[i], end=\" \")\n4 | ",
+        "choices": [
+            "1 Python 2 is 3 not 4 tough",
+            "Python is not tough",
+            "1 Python 2 is 3 not",
+            "0 Python 1 is 2 not 3 tough"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Line 2 loops through a range of 0 to the last index in the list. Therefore, line 3's print statement first prints the index number, indicated by the i, and then the value of the requested index in list a, indicated by the a[i]. The end=\" \" causes a space to be printed instead of the default new line character, which places the entire statement on one line instead of separate lines. The final output is '0 Python 1 is 2 not 3 tough'."
+        ]
+    }
+}

@@ -1,6 +1,6 @@
 ## The Logical Link Control (LLC) layer is a sub-layer to which Open System Interconnection (OSI) layer?
 
-KSAs: 218, 1298
+KSAs: 218
 
 ## Answer
 | ***A*** | B | C | D |

@@ -1,0 +1,37 @@
+{
+    "uid": "3ea962c1b9890200968524ad7cca9d3dcf646eda9f0beecf908aa914f3f24c54",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Owner must provide transparency of project status with ________.",
+        "snippet": "",
+        "choices": [
+            "Sprint Burndown Charts",
+            "Release Burndown Charts",
+            "showing done and remaining work",
+            "Cumulative Flow Diagrams"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The type of chart used is not important; they just have to measure the completed and remaining work. 'Work' here refers to the cumulative size of the Product Backlog items."
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "f434ee07faf1ae795d4a8b739bc5f5e74fd5aacd376606bff58f9da57260fc9b",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        256
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-10 17:49:32",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Why does the above program cause a compile error?",
+        "snippet": "1  | void main()\n2  | {\n3  |    fun(3);\n4  | }\n5  | \n6  | void fun(int n)\n7  | {\n8  |    for(int i = n;i > 0; i--)\n9  |      printf(\"GeeksQuiz\");\n10 | }\n11 | ",
+        "choices": [
+            "The code has a syntax error in for loop header.",
+            "fun in the main function has yet to be defined.",
+            "fun is an invalid function name.",
+            "n is not initialized in the for loop header."
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: the syntax if the for loop is correct",
+            "Correct: fun is yet to be defined when the compiler encounters it on line 3. It is necessary to define a prototype above main so the definition is known",
+            "Incorrect: fun is a valid name for a function",
+            "Incorrect: n is intialized when the function is called"
+        ]
+    }
+}

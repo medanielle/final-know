@@ -1,0 +1,43 @@
+{
+    "uid": "ce8768392dc317807b7446dcba8e7b339c6fb5090161db2d20d4fd0b7633271a",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        255,
+        265
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Why is a cast necessary in the above code snippet?",
+        "snippet": "1 | int x = 10;\n2 | int y = 3;\n3 | \n4 | float z = (float)x/y;\n5 | ",
+        "choices": [
+            "because int cannot be assigned to float variables",
+            "otherwise floating point precision would be lost in the division",
+            "float casting is required for int division",
+            "to reduce the length of the division result"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: int can be assigned to floating point variables",
+            "Correct: if x is not cast to a float, x/y would result in int division providing an int result and losing any floating point results. Casting one of the vaiables to a float will result in the equation evaluating to a floating point number",
+            "Incorrect: float casting is not required but precision will be lost without it",
+            "Incorrect: casting to a float will not reduce the size of the result"
+        ]
+    }
+}

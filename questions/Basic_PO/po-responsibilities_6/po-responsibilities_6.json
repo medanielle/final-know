@@ -1,0 +1,35 @@
+{
+    "uid": "7110a3b820f948208e467b46d50727dc86c019a5581a3df2829d716604106488",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Owner can ask the developers to order the Product Backlog Items instead of him/her.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Product Owner can delegate his/her responsibilities to the development team but he/she stays accountable."
+        ]
+    }
+}

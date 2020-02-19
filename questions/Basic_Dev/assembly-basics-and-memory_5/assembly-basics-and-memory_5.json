@@ -1,0 +1,45 @@
+{
+    "uid": "df60896dabe6b4a7a155941672c507b95e02f6814eea435956c35a438de4c38c",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        578,
+        580,
+        647,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which assembly instruction's primary function is to advance the instruction pointer to the next instruction and can be used for padding/alignment and timing reasons?",
+        "snippet": null,
+        "choices": [
+            "nop",
+            "xor",
+            "cmp",
+            "pad"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: the nop (no operation) opcode is used to advance the instruction pointer to the next instruction",
+            "Incorrect: the xor opcode executes and exclusive or operation on two registers",
+            "Incorrect: the cmp opcode compares two registers for equality",
+            "Incorrect: pad is not a valid assembly opcode"
+        ]
+    }
+}

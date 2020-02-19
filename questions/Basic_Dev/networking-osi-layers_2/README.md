@@ -1,6 +1,6 @@
 ## What is one difference between the Open Systems Interconnection (OSI) Network and Transport Layers?
 
-KSAs: 218, 1298
+KSAs: 218
 
 ## Answer
 | A | B | ***C*** | D |

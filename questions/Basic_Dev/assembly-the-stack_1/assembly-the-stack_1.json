@@ -1,0 +1,44 @@
+{
+    "uid": "024947c3f6cdf31fbdc872e84f62f280e74f50db7e84f4a14f5d0e8a0c5a2984",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        575,
+        645,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The values 5, 34, 32, 12 are pushed to a data structure and when popped they return 12, 32, 34, 5. What data structure does this represent?",
+        "snippet": null,
+        "choices": [
+            "queue",
+            "vector",
+            "tree",
+            "stack"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: a queue is a first in first out data structure used in operating systems",
+            "Incorrect: a vector is not a data structure used at the operating system level",
+            "Incorrect: a tree is an abstract data type that simulates a hierarchical tree structure",
+            "Correct: a stack is a last in, first out, data structures used in operating systems"
+        ]
+    }
+}

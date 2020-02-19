@@ -1,0 +1,40 @@
+{
+    "uid": "e9e89739b48a397332fd0fa19fb88d19767ee836ca0bf09ea248a06b68b3475f",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        218,
+        238
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "One difference between a switch and a hub is that the hub operates at the ___ layer of the Open Systems Interconnection (OSI) model.",
+        "snippet": null,
+        "choices": [
+            "Physical",
+            "Network",
+            "Data Link",
+            "Transport"
+        ],
+        "answer": 0,
+        "explanation": [
+            "A hub operates at the physical layer because it only passes data. A switch actually processes packets and operates at either the data link or network layers."
+        ]
+    }
+}

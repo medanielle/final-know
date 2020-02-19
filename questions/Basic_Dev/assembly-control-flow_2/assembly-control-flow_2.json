@@ -1,0 +1,51 @@
+{
+    "uid": "7f5a956c718e3c21ecb02f3390953a0750fd6a8d578da9b962bbc0e1c4504e86",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        654,
+        661,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, which of the following is true?",
+        "snippet": "1  | .label1:\n2  |     xor rax, rax\n3  |     inc rax\n4  |     mov rcx, rax\n5  |     jmp .label2\n6  |     mov rsp, rax\n7  | .label2:\n8  |     shl rcx, 3\n9  |     xchg rcx, rax\n10 |     ret\n11 | ",
+        "choices": [
+            "The line mov rsp, rax is never executed",
+            "label1 and label2 are incorrectly defined",
+            "shl cannot be executed on the rcx register",
+            "jmp can only be used for label1"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: this line is never executed because it is preceded by a jmp command with will always jump to the label2 when executed",
+            "Incorrect: both these labels are correctly defined",
+            "Incorrect: shl can be executed on the rcx register",
+            "Incorrect: the jmp opcode can be used for any label"
+        ]
+    }
+}

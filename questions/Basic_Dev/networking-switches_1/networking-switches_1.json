@@ -1,0 +1,42 @@
+{
+    "uid": "750bd1389beb5ad94c10b160e9b6149b9ef88fdee0a26b7443a7036ac5b6714d",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1 !JQR"
+    ],
+    "ksas": [
+        238
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What has CAM (Content Addressable Memory) tables that map a physical ports to MAC addresses",
+        "snippet": null,
+        "choices": [
+            "Hub",
+            "repeater",
+            "switch",
+            "DHCP server"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: A hub is a common connection point for devices in a network. Hubs are devices commonly used to connect segments of a LAN.",
+            "Incorrect: Repeaters are used in transmission systems to regenerate analog or digital signals distorted by transmission loss.",
+            "Correct: A switch uses Content Addressable Memory (CAM) tables which stores information such as MAC addresses available on physical ports with their MAC addresses.",
+            "Incorrect: A DHCP server automatically assigns an IP address and other information to each host on the network so they can communicate efficiently with other endpoints."
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "5392ce110bbe8079010c1ae1ef7d6cb82dbb204be710a3065b200bf8bb34aa4c",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        910
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who is the most important stakeholder that the Product Owner should satisfy?",
+        "snippet": null,
+        "choices": [
+            "The end users",
+            "The Scrum Master",
+            "All stakeholders are equally important",
+            "The developers",
+            "The higher managers"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Considering the end users as the most important stakeholder helps increase value."
+        ]
+    }
+}

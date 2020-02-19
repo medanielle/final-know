@@ -1,6 +1,6 @@
 ## Compared to protocols like DNS or DHCP, UDP is different because ___.
 
-KSAs: 217, 218, 225, 228, 1296, 1298, 1303
+KSAs: 217, 218, 225, 228, 1296, 1303
 
 ## Answer
 | ***A*** | B | C | D |

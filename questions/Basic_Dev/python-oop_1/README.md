@@ -1,6 +1,6 @@
 ## Which of the following is NOT a keyword used in Python exception handling?
 
-KSAs: 78, 79
+KSAs: 79
 
 ## Answer
 | A | ***B*** | C | D |

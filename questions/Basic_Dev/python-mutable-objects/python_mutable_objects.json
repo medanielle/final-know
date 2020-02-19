@@ -1,0 +1,42 @@
+{
+    "uid": "b7e649a3b0a993004a58deec172eaf5c757869acfa5b0b6389119f0a44e53a84",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        32,
+        33,
+        37,
+        38
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2020-01-08 18:57:26",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In python, which of the following object types are mutable.",
+        "snippet": null,
+        "choices": [
+            "list",
+            "tuple",
+            "int",
+            "string"
+        ],
+        "answer": 0,
+        "explanation": [
+            "tuples, ints, and strings are immutable while a list is mutable."
+        ]
+    }
+}

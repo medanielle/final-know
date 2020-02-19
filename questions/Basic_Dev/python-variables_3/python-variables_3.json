@@ -1,0 +1,42 @@
+{
+    "uid": "5107f8cacae8aff98d768fd1ed3d2c564b6e0341f82dda0a7ead0f2f0b8fef64",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        40
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is the proper way to declare a variable in Python?",
+        "snippet": null,
+        "choices": [
+            "int x = 0",
+            "long x = 0",
+            "var x = 0",
+            "x = 0"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: This syntax won't work in Python but would in languages like C, C++, Java, etc.",
+            "Incorrect: This syntax won't work in Python but would in languages like C, C++, Java, etc.",
+            "Incorrect: This syntax won't work in Python but would in languages like javascript.",
+            "Correct: This syntax works in Python."
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "a12e0de65e0fcd3b6e4a17ef641a64dc86d5811a37d5e25fe4a7699a3a9baefd",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.2"
+    ],
+    "ksas": [
+        262,
+        294,
+        295,
+        296
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Where is ptr1 stored?",
+        "snippet": "1 | int *ptr1 = malloc(sizeof(int));\n2 | ",
+        "choices": [
+            "Cache",
+            "The stack",
+            "The heap",
+            "None of the above"
+        ],
+        "answer": 1,
+        "explanation": [
+            "While the memory allocated by the expression \"malloc(sizeof(int))\" is allocated on the heap, the pointer \"ptr1\" that holds that address is allocated on the stack at compile time"
+        ]
+    }
+}

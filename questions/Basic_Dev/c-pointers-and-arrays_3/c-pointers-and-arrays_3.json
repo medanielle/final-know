@@ -1,0 +1,39 @@
+{
+    "uid": "c96150744dedae6324f7082669a72232df30383dfd8bcfb4a919d12af7fc531c",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        262
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Why does the above C code snippet cause a run-time error?",
+        "snippet": "1 | \n2 | char *p = NULL;\n3 | \n4 | printf(\"%c \", *p);\n5 | ",
+        "choices": [
+            "You cannot initialize a pointer to NULL.",
+            "null should be all lower case.",
+            "You cannot dereference a NULL pointer",
+            "%c is not a valid specifier"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Dereferencing a pointer pointing to NULL will cause a run-time error."
+        ]
+    }
+}

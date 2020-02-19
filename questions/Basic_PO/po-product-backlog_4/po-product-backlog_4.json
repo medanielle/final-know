@@ -1,0 +1,39 @@
+{
+    "uid": "0f547d4e68ef0557e8694023c4e30ec46dba23b40b9285d6d472a030635c8bf5",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873,
+        916
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "How should the Product Owner handle a situation where the Development Team is ready to start the sprint but the Product Backlog isn't complete?",
+        "snippet": null,
+        "choices": [
+            "Delay starting the sprint until all product backlog items are complete",
+            "Let the team start the first Sprint, and continue refining the Product Backlog",
+            "Let the Sprint begin, but only with the goal of completing the Product Backlog",
+            "All of the above",
+            "None of the above"
+        ],
+        "answer": 1,
+        "explanation": [
+            "It's not necessary to identify all product backlog items before starting the next sprint; afterall, the backlog is never really complete."
+        ]
+    }
+}

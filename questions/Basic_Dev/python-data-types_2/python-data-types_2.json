@@ -1,0 +1,39 @@
+{
+    "uid": "1ffb03da93f440da666f05a0eb3230efc39f0ac076a19ca2043cbd55b6427f09",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.1"
+    ],
+    "ksas": [
+        31
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | stuff = {\"City\":\"Austin\",\"State\":\"Texas\",\"County\":\"Bexar\"}\n2 | \n3 | print (stuff[\"State\"])\n4 | ",
+        "choices": [
+            "Texas",
+            "A run-time error occurs",
+            "Austin, Texas, Bexar",
+            "Austin"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Since stuff is a Python dictionary, stuff[\"State\"] accesses the value that the key 'State' points to, which is 'Texas'."
+        ]
+    }
+}

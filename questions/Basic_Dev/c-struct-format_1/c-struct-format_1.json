@@ -1,0 +1,41 @@
+{
+    "uid": "393978ed1f7cfe5fb4de6e6a4df45a0506374524a010df4a19197278700630fb",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.3"
+    ],
+    "ksas": [
+        262,
+        346,
+        350
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the above C code snippet, how would you initialize name in the struct person?",
+        "snippet": "1 | struct person {\n2 |   char *name;\n3 |   int age;\n4 | } artist;\n5 | ",
+        "choices": [
+            "name.artist = \"Picaso\";",
+            "person.name = \"Picaso\";",
+            "artist->name = \"Picaso\";",
+            "artist.name = \"Picaso\";"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Line 4 declares a variable artist of type struct person simultaneously when the struct is defined. Accessing individual elements within a struct variable is done by using the . operator: artist.name, artist.age etc.  If artist were declared as a pointer, then accessing each element would use the -> operator such as:  artist->name, artist->age."
+        ]
+    }
+}

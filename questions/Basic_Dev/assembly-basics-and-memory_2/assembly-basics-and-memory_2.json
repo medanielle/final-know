@@ -1,0 +1,45 @@
+{
+    "uid": "204b811100632ff2b21f965e0e3cfe88e19fdc81c4765f51597ed373c0c22869",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        575,
+        578,
+        652,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, what instruction places a value on the stack?",
+        "snippet": null,
+        "choices": [
+            "add",
+            "insert",
+            "push",
+            "stack"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: The add opcode is used to add to and existing register's content",
+            "Incorrect: insert is not a valid assmelby opcode",
+            "Correct: push is the correct opcode to use to push a value onto the stack",
+            "Incorrect: stack is not a valid assembly opcode"
+        ]
+    }
+}

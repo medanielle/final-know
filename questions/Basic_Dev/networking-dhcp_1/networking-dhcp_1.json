@@ -1,0 +1,48 @@
+{
+    "uid": "e9160f9a9c60bfb5e3d6665d2e49559cba1072bf7d9d5f155f43678b60da11bc",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.2"
+    ],
+    "ksas": [
+        223,
+        225,
+        228,
+        238,
+        1294,
+        1296,
+        1303
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Upon bootup, a particular network device was configured with 0.0.0.0 so it asked for and received an IP from the ___.",
+        "snippet": null,
+        "choices": [
+            "Router",
+            "DNS Server",
+            "ARP Server",
+            "DHCP server"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: A router is a device that forwards data packets along networks; it doesn't assign IP addresses.",
+            "Incorrect: A DNS Server resolves domain names to IP addresses.",
+            "Incorrect: ARP Server will map a dynamic Internet Protocol address (IP address) to a permanent physical machine address in a local area network (LAN)/].",
+            "Correct: A DHCP Server is a network server that automatically provides and assigns IP addresses, default gateways and other network parameters to client devices. It relies on the standard protocol known as Dynamic Host Configuration Protocol or DHCP to respond to broadcast queries by clients."
+        ]
+    }
+}

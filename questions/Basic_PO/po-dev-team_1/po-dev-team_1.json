@@ -1,0 +1,35 @@
+{
+    "uid": "ec7af8d02d6ad623ce5212f2ac06e29ad77851dd18dbef2ff06ea6e32a52e841",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Development Team is free to change its engineering practices whenever they want.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Development Team is self-organized and cross-functional; they have to decide how best to handle their development and this decision can evolve during the project as more is learned about the needs. This is about their development and doesn't have to be constrained by the Sprints. The elements that shouldn't be changed during the Sprint are those required for keeping them focused on their development."
+        ]
+    }
+}

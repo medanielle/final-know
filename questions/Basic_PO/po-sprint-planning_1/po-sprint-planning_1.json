@@ -1,0 +1,38 @@
+{
+    "uid": "1065f77c277672eda9aa58b60a1d7ba466550d3c8c3bbbec2527f1e0df2ddd0d",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        884
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following must be done before starting Sprint Planning?",
+        "snippet": null,
+        "choices": [
+            "Assigning Product Backlog Items to developers",
+            "Arranging enough items at the top to fit in one Sprint",
+            "Ensuring all requirements are reflected in the Product Backlog",
+            "All of the above",
+            "None of the above"
+        ],
+        "answer": 4,
+        "explanation": [
+            "Although it's desireable to have ready items at the top of the Product Backlog, nothing stops the flow of sprints. If items are not ready then they are added to the sprint for the purposes of refining them so they can be completed later. 'Ready' items are those that are clear and small enough to fit into one Sprint."
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "560429e865f5b5ba1a73d025fb4842e81f8d3ba136a84298b8c1989330c03de2",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-12 15:52:03",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "When can the Product Backlog be refined?",
+        "snippet": null,
+        "choices": [
+            "Anytime needed",
+            "During the Sprint Planning",
+            "Right before Sprint Planning",
+            "At the end of Sprint Planning"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Product Backlog refinement is an ongoing process. It is done by the Product Owner and usually with collaboration from the Development Team."
+        ]
+    }
+}

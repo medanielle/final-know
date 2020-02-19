@@ -1,0 +1,42 @@
+{
+    "uid": "80a40f022c55c8cffc7c10c554445ddddcc9f820fc280accaec4e0de1e3aa0f0",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        31
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is the proper way to access a value from a Python dictionary called car?",
+        "snippet": null,
+        "choices": [
+            "car.model",
+            "car[\"model\"]",
+            "car{model}",
+            "car.model()"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: This accesses an attribute of a Python class.",
+            "Correct: The name of the key is placed between square brackets, just like you would the index number to a list. Note, key names can't be hashable values, that is, values containing lists, dictionaries or other mutable types (that are compared by value rather than by object identity).",
+            "Incorrect: The key of a Python dictionary is placed between square brackets not curly brackets.",
+            "Incorrect: This accesses a class function."
+        ]
+    }
+}

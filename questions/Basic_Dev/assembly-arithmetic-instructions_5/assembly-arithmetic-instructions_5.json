@@ -1,0 +1,49 @@
+{
+    "uid": "6bcb3eb38cc2fd2fd97da0ce1a2e87e99d3a30386e5fcba0b85b258c2645f336",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        579,
+        580,
+        596,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, which of the following is the proper way to add 1 to the value stored in the rax register?",
+        "snippet": null,
+        "choices": [
+            "mov rax, rax+1",
+            "rax++",
+            "add rax, 1",
+            "add rax+1"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: The + operator is not a valid opcode",
+            "Incorrect: The ++ operator is not a valid opcode",
+            "Correct: In assemby you use the add opcode, followed by the operand (in this case rax), followed by a comma and an amount to add",
+            "Incorrect: The + operator is not a valid opcode"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "351556f7d27615dfe0d6a842dd131641a1543b9c1b83073a8001b8b01c3564ab",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        908
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Recently, some changes occurred in the environment where the product will be used. How does this impact the Product Backlog?",
+        "snippet": null,
+        "choices": [
+            "The Product Backlog remains the same.",
+            "The Product Backlog will be updated with those changes",
+            "The Product Backlog should be kept high-level enough to tolerate such changes",
+            "A new Product Backlog baseline is created after saving the old one"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The Product Backlog is a dynamic concept that is always changing to reflect feedback from various entities."
+        ]
+    }
+}

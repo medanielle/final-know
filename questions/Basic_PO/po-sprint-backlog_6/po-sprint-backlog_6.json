@@ -1,0 +1,37 @@
+{
+    "uid": "71265042758be801457078fd9c068ef761300a1680733d92022b41f5500a0054",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which statement best describes the Sprint Backlog?",
+        "snippet": null,
+        "choices": [
+            "Each of its items has been estimated in hours",
+            "It's the Development Team's plan for the Sprint",
+            "It's composed by the Product Owner",
+            "Each of its items are assigned to a team member"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The Sprint Backlog is created during the Sprint Planning and includes the items selected from the Product Backlog (by the Development Team) and the tasks created by decomposing the items (by the Development Team). Developers keep adding tasks during the Sprint, so the Sprint Backlog updates. It's the Development Team's plan for the current Sprint. This plan is not detailed upfront. If the Development Team cannot deliver some of the items, they will go back to the Product Backlog and will be ordered again; they do not go to the next Sprint automatically. Each task is assigned to one developer or a pair of developers but the ownership is still shared. Items are not assigned or owned by specific developers, all of them share accountability."
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "uid": "d31315cb3c4d468b571590465422a9525ccf9849d52dcb9d57930d911265c9d5",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        262
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 2,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following operator, known as a dereference, can be used to access value at address stored in a pointer variable?",
+        "snippet": null,
+        "choices": [
+            "&",
+            "#",
+            "*",
+            "->"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The asterisk * is the defreference operator use to access the contents a pointer refers to."
+        ]
+    }
+}

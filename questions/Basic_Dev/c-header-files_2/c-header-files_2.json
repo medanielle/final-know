@@ -1,0 +1,39 @@
+{
+    "uid": "685a32300a38d71c2e24dcae9fdd1874686a2a825a3740ed38ac0b18b50bde99",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.3"
+    ],
+    "ksas": [
+        260
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-07 00:04:18",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What should not be included in C header files?",
+        "snippet": null,
+        "choices": [
+            "Function prototype",
+            "Include guards",
+            "Type and struct definitions",
+            "Function implementation"
+        ],
+        "answer": 3,
+        "explanation": [
+            "C header files should avoid having implementation code."
+        ]
+    }
+}

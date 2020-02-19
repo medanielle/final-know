@@ -1,0 +1,36 @@
+{
+    "uid": "1372fcaf1fdd1d14d0acadeb90f6b73d53d858f8d6ed4df1aed5f47a3c31f4db",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873,
+        916
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "It is OK for the items at the bottom of the Product Backlog not to be as clear as those at the top.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Items at the bottom of the Product Backlog won't be developed soon, so, there's no need to spend too much time making them clear and add details; that would be some kind of upfront planning. Not that the items do not go to the bottom of the backlog because they are not clear or do not have enough detail; the only basis for order of items is the business value. When the item does not have enough detail and starts to go to the top of the Product Backlog, it should be refined by adding more detail."
+        ]
+    }
+}

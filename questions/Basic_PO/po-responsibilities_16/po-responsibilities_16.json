@@ -1,0 +1,37 @@
+{
+    "uid": "a894ea7dbf7d0de2e7f3d78bf18d2f18aa24970851078dd4372dd70c643d9f73",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-12 15:52:03",
+    "revision_date": "2019-12-12 15:52:03",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is the best response from the Product Owner when the developers have difficulty understanding the expectations in the middle of the Sprint?",
+        "snippet": null,
+        "choices": [
+            "Attend their Daily Scrums and answer their questions",
+            "Ask the Scrum Master to facilitate the interactions between the Product Owner and the Development Team",
+            "Spend enough time with the team to explain everything.",
+            "Attend their Daily Scrums and remove their impediments"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The Product Owner is responsible for spending enough time with the developers to make sure the items are clear and understood. The Daily Scrums are only for the developers. Others may attend but they won't participate."
+        ]
+    }
+}

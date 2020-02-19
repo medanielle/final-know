@@ -1,0 +1,42 @@
+{
+    "uid": "d9e6de17d150af7868e537ea2043885d97c299cf26f46ceb44524473c0d6140d",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        264
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "To utilize a header file like stdio.h in C programming, you use the __________ preprocessor directive.",
+        "snippet": null,
+        "choices": [
+            "#define",
+            "#using",
+            "#import",
+            "#include"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: although #define is a valid preprocessor directive, it is not used to untilize header files. this is used to define named constants",
+            "Incorrect: #using is not a valid preprocessor directive",
+            "Incorrect: #import is not a valid preprocessor directive in C",
+            "Correct: #include allows you to utilize standard C library headers as well as locally defined header files"
+        ]
+    }
+}

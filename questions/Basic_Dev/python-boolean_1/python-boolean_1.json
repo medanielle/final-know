@@ -1,0 +1,41 @@
+{
+    "uid": "93e4983b7f8423c5d75cc41e3dd1db71f6d81ce7fe2b59126d031a79d92cb6ee",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.3",
+        "3.2.7"
+    ],
+    "ksas": [
+        59,
+        60
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet in Python 3?",
+        "snippet": "1 | x = 19/2\n2 | value = x % 3 == 0\n3 | \n4 | if value:\n5 |     print (value, \" is true\")\n6 | else:\n7 |     print (value, \" is false\")\n8 | ",
+        "choices": [
+            "value is false",
+            "False is false",
+            "value is true",
+            "True is true"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Since value is a variable, the output will either be 'True is true' or 'False is false'. Looking at line 2, value becomes the comparison result of x modulus 3 equals 0. Since line 1 becomes 9.5 after division then value turns out to be 9.5 % 3 = 2, which doesn't equal 0 so it's False. The print statement outputs False is false."
+        ]
+    }
+}

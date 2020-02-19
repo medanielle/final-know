@@ -1,0 +1,42 @@
+{
+    "uid": "7dbb51f69147cd53e26dd94cbe8e504156cbd55bc21e0deb6fab421dc498cb73",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "A server sends a SYN-ACK to a client's SYN request. This is step 2 of a 3-way process of what communication protocol?",
+        "snippet": null,
+        "choices": [
+            "File Transfer Protocol (FTP)",
+            "Transmission Control Protocol (TCP)",
+            "Open Systems Interconnection (OSI)",
+            "Dynamic Host Configuration Protocol (DHCP)"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: File Transfer Protocol (FTP) uses TCP, which is connection oriented, does not provide error checking and does not provide reliability of communication",
+            "Correct: Transmission Control Protocol (TCP) is connection oriented, provides error checking, and provides reliability of communication.",
+            "Incorrect: Open Systems Interconnection (OSI)  is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Not a networking protocol.",
+            "Incorrect: Dynamic Host Configuration Protocol (DHCP) is a network management protocol. Not a networking protocol."
+        ]
+    }
+}

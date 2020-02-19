@@ -1,0 +1,37 @@
+{
+    "uid": "884b46efcfd9a168ec8f2c9444ce819adb6cbc4166ff1298a6b1af2cb5424a69",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [],
+    "ksas": [
+        348
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-18 20:42:25",
+    "revision_date": "2019-12-18 20:42:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is printed in the C program snippet above?",
+        "snippet": "1 | enum week{Mon, Tue, Wed, Thur, Fri, Sat, Sun}; \n2 | printf(Fri); ",
+        "choices": [
+            "Fri",
+            "4",
+            "0",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Enumerated types have an implicit, default integer value starting at 0 for the first item and incrementing by 1 for each following item"
+        ]
+    }
+}

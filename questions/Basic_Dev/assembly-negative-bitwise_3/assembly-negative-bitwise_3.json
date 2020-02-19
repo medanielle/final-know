@@ -1,0 +1,48 @@
+{
+    "uid": "698bef2cbc3c4484dea8b09a34700245496f58944daf07188313392168e4449c",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, what's contained in the rax register when finished?",
+        "snippet": "1 | mov rax, 1\n2 | mov rcx, 5\n3 | \n4 | or rax, rcx\n5 | ",
+        "choices": [
+            "1",
+            "5",
+            "6",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Correct: mov rax, 1 puts ...00000001 in rax, mov rcx, 5 puts ...00000101 in rcx, or-ing rax with rcx results in 00000101"
+        ]
+    }
+}

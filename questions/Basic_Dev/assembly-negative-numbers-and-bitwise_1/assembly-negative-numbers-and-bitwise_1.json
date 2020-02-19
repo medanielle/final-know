@@ -1,0 +1,48 @@
+{
+    "uid": "0461d054982a19041153f13903d33128d413b3e8f24d5ff62857c4130b385072",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, given the above what will rax contain in binary?",
+        "snippet": "1 | mov rax, 1\n2 | mov rcx, 5\n3 | and rax, rcx\n4 | ",
+        "choices": [
+            "00000001",
+            "00000100",
+            "00000110",
+            "00000101"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: mov rax, 1 puts ...00000001 in rax, mov rcx, 5 puts ...00000101 in rcx, and-ing rax with rcx results in 00000001"
+        ]
+    }
+}

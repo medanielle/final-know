@@ -1,0 +1,45 @@
+{
+    "uid": "2eb4b33a57b6bee396d6cb80d79a8222e139411ba35148c899c0a09e86b4d2d4",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        578,
+        579,
+        580,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, what instruction is used to check if two register's contents are equal?",
+        "snippet": null,
+        "choices": [
+            "cmp",
+            "eq",
+            "==",
+            "shr"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: cmp is the correct opcode used to compare two register's contents",
+            "Incorrect: eq is not a valid assembly opcode",
+            "Incorrect: == is not a valid assembly opcode",
+            "Incorrect: shr is the opcode used to right-shift a register's bits"
+        ]
+    }
+}

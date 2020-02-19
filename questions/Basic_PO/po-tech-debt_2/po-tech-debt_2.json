@@ -1,0 +1,38 @@
+{
+    "uid": "d35e82d390c041d0973e6569f122b77aad7fee11251633cace230e8137edfee4",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Why would technical debt be important for Product Owners?",
+        "snippet": null,
+        "choices": [
+            "Because it increases the 'total cost of ownership'",
+            "It wouldn't; the Product Owner should be focused on value",
+            "Because it increases value",
+            "All of the above",
+            "None of the above"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Technical debt is shortcomings in the code that makes it less than 'good enough' and therefore creates risks in the future. It usually decreases velocity in the future (because the team has to fix the shortcomings) and as some of the debt might remain in the file product, the maintenance cost will increase as well. Total cost of ownership is a combination of the project cost and maintenance cost."
+        ]
+    }
+}

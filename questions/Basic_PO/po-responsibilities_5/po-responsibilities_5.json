@@ -1,0 +1,37 @@
+{
+    "uid": "1571d43462b2648388ecda1377a875f55997c8ac189282447a90ea812383ddec",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which statement is LEAST accurate about the definition of \"Done\"?",
+        "snippet": null,
+        "choices": [
+            "It may evolve during the project",
+            "It's created by the Product Owner",
+            "It may vary depending on the project",
+            "It may be defined by the development organization"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The definition of \"Done\" can be prepared in the development organization and used in all projects as a minimum. If additional content is required for the definition or it's not prepared in the organization level, the Development Team would be responsible for preparing it. The definition of \"Done\" can evolve during the project as more is learned. It's also dependent on the project and its environment."
+        ]
+    }
+}

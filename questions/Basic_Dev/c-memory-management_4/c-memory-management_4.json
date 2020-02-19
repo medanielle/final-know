@@ -1,0 +1,39 @@
+{
+    "uid": "13f808d671a3795b102aa57cd6a0515c23032a7d8252f174b3a97c38c9e4994a",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.2"
+    ],
+    "ksas": [
+        295
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the above C code snippet, where is the memory being allocated with the malloc command?",
+        "snippet": "1 | int x [10];\n2 | int *y = malloc(sizeof(x));\n3 | ",
+        "choices": [
+            "heap",
+            "stack",
+            "cache",
+            "registers"
+        ],
+        "answer": 0,
+        "explanation": [
+            "All memory created with malloc is allocated on the heap."
+        ]
+    }
+}

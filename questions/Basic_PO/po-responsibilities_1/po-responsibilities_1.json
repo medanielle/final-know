@@ -1,0 +1,37 @@
+{
+    "uid": "2cd4b19c926af24f526c946c25eaf8ae36aedd4cf831f4fecbde89abc5996283",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853,
+        1374
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "A Product Owner handles all traditional Project Manager responsibilities.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Many project management responsibilities, such as estimations, are completed by other work roles than a Product Owner."
+        ]
+    }
+}

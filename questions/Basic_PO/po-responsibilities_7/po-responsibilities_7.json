@@ -1,0 +1,36 @@
+{
+    "uid": "54ef67833fcdb1e242fb07141a27f19bffdb7e1cb3468716932471344aee6b86",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Owner can delegate some of his/her responsibilities to the Development Team.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Product Owner can delegate his/her responsibilities to the development team but he/she stays accountable."
+        ]
+    }
+}

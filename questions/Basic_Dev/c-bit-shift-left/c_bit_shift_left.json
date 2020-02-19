@@ -1,0 +1,37 @@
+{
+    "uid": "9de0b0afb6b5215a685b515d467d8d3cf77ac8f82d2fdab375b38d51524c2538",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [],
+    "ksas": [
+        291
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-18 20:28:45",
+    "revision_date": "2019-12-18 20:28:45",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the value of x after the C program snippet above executes?",
+        "snippet": "1 | int x = 2; \n2 | x <<= 1;",
+        "choices": [
+            "2",
+            "1",
+            "4",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Left shift operator shifts bits one to the left.  Given the start bits were 00000010 for a value of 2, when shifting the bits one to the left the result is 00000100 resulting in 4"
+        ]
+    }
+}

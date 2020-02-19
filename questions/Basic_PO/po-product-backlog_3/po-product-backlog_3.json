@@ -1,0 +1,38 @@
+{
+    "uid": "af7e252184b928a6ec4be0f269b4ec52f7d655cef0c8235575cc6cb3cfedab20",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873,
+        912
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which is the basis for Product Backlog ordering?",
+        "snippet": null,
+        "choices": [
+            "Complexity",
+            "Risks",
+            "Dependencies",
+            "Product Owner needs"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Backlog ordering is done based on the item's value and a Product Owner's need is assumed to be the same as the value. Since backlog items are non-technical and independent, there's no dependency in the way of ordering. Both risk and complexity can influence the business value but they are not considered directly for ordering the items."
+        ]
+    }
+}

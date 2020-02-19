@@ -1,0 +1,36 @@
+{
+    "uid": "a9d90a51c3450bbc9771211fbe51ef8ac36f446cacf24821c41b37582ec95d87",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Owner makes the ultimate decision on the definition of 'Done' due to being accountable for the end result.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "There may be multiple definitions of 'Done' for each development team or a single definition for one team accross multiple projects. In either case, the development team has the shared responsibility to create a definition of done."
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "4aa0af9752913804cab02e3e5b608bbed51a84a0a1cf2e7ece0f2d137d35062f",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who is responsible for ordering the Product Backlog",
+        "snippet": "",
+        "choices": [
+            "Product Owner",
+            "Development Team",
+            "Product Owner and Development Team",
+            "Product Owner and customer"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The product owner is responsible for ordering the Product Backlog and has the final say."
+        ]
+    }
+}

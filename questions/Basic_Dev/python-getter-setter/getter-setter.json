@@ -1,0 +1,37 @@
+{
+    "uid": "d2a4ef061c011520d91537d77a6cbc1caabdb31c53e7c817e1438ce30ac41689",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [],
+    "ksas": [
+        112
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2020-01-06 18:46:03",
+    "revision_date": "2020-01-06 18:46:03",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Object-Oriented programming, functions designed to change an object's attribute is known as a ___________ function and a function that retrieves an object's attribute is known as a _________ function?",
+        "snippet": "",
+        "choices": [
+            "modifier, viewer",
+            "setter, getter",
+            "updater, retriever",
+            "changer, viewer"
+        ],
+        "answer": 1,
+        "explanation": [
+            "setter is the term used for functions that change an attribute, for example setName. Whereas getter is the term used for functions that view/retrieve an attributes data, for example getName."
+        ]
+    }
+}

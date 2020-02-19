@@ -1,0 +1,37 @@
+{
+    "uid": "bceaf063770e53995e237b575d93d0c4e1518ea33792857e982b2c58fd15a93c",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Product Backlog refinement is the act of ___ to the items in the Product Backlog.",
+        "snippet": null,
+        "choices": [
+            "Adding detail, estimates, and order",
+            "Adding detail and estimates",
+            "Adding estimates and order",
+            "Adding detail and order"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Product Backlog refinement is defined in the Scrum Guide as the act of adding detail, estimates and order to the Product Backlog items. Remember that Product Backlog refinement is an ongoing activity and is not time-boxed. The rule is that it shouldn't take more than 10% of the developers' time."
+        ]
+    }
+}

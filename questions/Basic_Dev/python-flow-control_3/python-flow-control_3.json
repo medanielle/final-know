@@ -1,0 +1,42 @@
+{
+    "uid": "850350ddfe1a7bb0b2ddf7a10d5dda69b2df1ee9d1500f8d677d170e82b6e08b",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2",
+        "3.2.3",
+        "3.2.7"
+    ],
+    "ksas": [
+        32,
+        80
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "3c",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | values = []\n2 | \n3 | for i in range(10):\n4 |     values.append(i * 2)  \n5 | for i in range(3, len(values)-3):\n6 |     print (values[i])\n7 | ",
+        "choices": [
+            "6\n8\n10\n12",
+            "6\n8\n10\n12\n14",
+            "4\n6\n8\n10\n12",
+            "3\n4\n5\n6"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The values list starts out empty in line 1 but is then filled with values in lines 3 and 4. Since a single parameter in the range function is non-inclusive, and begins at 0 and steps one by default, the sequential numbers 0 - 9 are accessed in line 3 and each one is multiplied by 2 and appended to the values list in line 4. When line 5 is reached, values = [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]. Keeping in mind that passing two parameters into range sets the inclusive starting and non-inclusive ending range values, the loop starts at 3 and goes to the length of values minus 3; 10 total values minus 3 is 7, so the 6th index is the last one accessed. The final printed output is 6, 8, 10, and 12; all on their own line."
+        ]
+    }
+}

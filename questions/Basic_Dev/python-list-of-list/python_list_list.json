@@ -1,0 +1,40 @@
+{
+    "uid": "4cc6a219bfe8b5ea17e9304346d03ebbe5c4b38af8df10ef68bf683789fb4ac4",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        32,
+        42
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 2,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2019-12-17 21:06:09",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python snippet?",
+        "snippet": "1 | S = [['him', 'sell'], [90, 28, 43]]   \n2 |    print(S[0][1][1])\n3 | ",
+        "choices": [
+            "e",
+            "i",
+            "90",
+            "h"
+        ],
+        "answer": 0,
+        "explanation": [
+            "s[0] references the first element in the list which is a list: ['him', 'sell'], the next [1] refrences the second element in the s[0] list: 'sell', [1] again refernce the 2nd letter in sell"
+        ]
+    }
+}

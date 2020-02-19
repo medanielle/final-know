@@ -1,0 +1,39 @@
+{
+    "uid": "f6545bb87ef8239ead23584e6d756012e3fe42cbf526abb162e4134f2fc24377",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        266
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output of the above code snippet?",
+        "snippet": "1  | int x = 0;\n2  | switch(x) \n3  | {\n4  |    case 0: \n5  |      printf(\"Hello\");\n6  |    case 1: \n7  |      printf(\"hi\"); \n8  |      break;\n9  | }\n10 | ",
+        "choices": [
+            "Hello",
+            "Hi",
+            "Hellohi",
+            "Nothing prints"
+        ],
+        "answer": 2,
+        "explanation": [
+            "This prints Hellohi because although x == 0, there is no break statement in case 0, therefore case 1 is also executed"
+        ]
+    }
+}

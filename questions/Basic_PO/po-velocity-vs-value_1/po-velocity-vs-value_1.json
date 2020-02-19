@@ -1,0 +1,36 @@
+{
+    "uid": "2470cbe1a74cf0bf7f4e3bd7ba011dee090d569063882edf62dfe9b63ae6f3b7",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        909,
+        1369
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Our velocity was 250 at the end of the 6th Sprint. It has become 275 at the end of the 11th Sprint. Therefore, we're creating more value now, compared to the past.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Velocity and value are not related directly. Value is the benefit to cost ratio. Since we start with the most important items first, those remained for the 11th Sprint are expected to have less value compared to those delivered at the 6th Sprint."
+        ]
+    }
+}

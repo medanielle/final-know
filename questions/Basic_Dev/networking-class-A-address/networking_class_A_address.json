@@ -1,0 +1,43 @@
+{
+    "uid": "cf48db5144d1ec06bf8ff4db477efb5e8fd048f02835dabda15ce0005d76a9f5",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        229,
+        232
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-09-26",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which class of IPV4 addresses have the first bit set to 0 and first octet in range of 1 - 127?",
+        "snippet": null,
+        "choices": [
+            "Class A",
+            "Class B",
+            "Class C",
+            "Class D"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Class A - first bit is 0 (First octet 1-127).",
+            "Class B - first TWO bits are 10 (First octet is 128-191)",
+            "Class C - first THREE bits are 110 (First octet is 192-223)",
+            "Class D - first FOUR are 1110 (First octet 224-239)"
+        ]
+    }
+}

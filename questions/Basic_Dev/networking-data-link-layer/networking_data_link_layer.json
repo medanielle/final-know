@@ -1,0 +1,42 @@
+{
+    "uid": "689942c2d2a8a6b6212cf8549e1f7305664822c4c11a4bdf45826edff20c79fb",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        218
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-09-26",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Logical Link Control (LLC) layer is a sub-layer to which Open System Interconnection (OSI) layer?",
+        "snippet": null,
+        "choices": [
+            "Data Link",
+            "Network",
+            "Session",
+            "Physical"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Data Link has two sublayers: a Media Access Control (MAC) layer that directly interfaces with the network medium and a LLC Layer that controls frame synchronization, flow control and error checking.",
+            "Network provides switching and routing technologies, creating logical paths; it doesn't have a LLC layer.",
+            "Session establishes, manages and terminates connections between applications; it doesn't have a LLC layer.",
+            "Physical conveys the bit stream - electrical impulse, light or radio signal through the network at the electrical and mechanical level; it doesn't have a LLC layer."
+        ]
+    }
+}

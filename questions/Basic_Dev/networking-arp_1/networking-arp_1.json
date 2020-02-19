@@ -1,0 +1,46 @@
+{
+    "uid": "5c4f6568fb6b8b7810cac24010ed3383b7a25f4c5c691dd7adfc48c9f5e28286",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.2"
+    ],
+    "ksas": [
+        218,
+        223,
+        225,
+        1294,
+        1296
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "This protocol is similar to DNS because of the way it maps layer 3 to layer 2 addresses.",
+        "snippet": null,
+        "choices": [
+            "UDP",
+            "HTTP",
+            "ARP",
+            "IPV4"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: UDP (User Datagram Protocol) is a communication protocol",
+            "Incorrect: Hypertext Transfer Protocol (HTTP) is an application protocol",
+            "Correct: Address Resolution Protocol (ARP) is a procedure for mapping an Internet Protocol (IP) address to a media access control (MAC) address",
+            "Incorrect: Internet Protocol Version 4 (IPv4) is a widely used protocol in data communication over different kinds of networks."
+        ]
+    }
+}

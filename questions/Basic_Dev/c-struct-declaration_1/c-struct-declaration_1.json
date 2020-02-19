@@ -1,0 +1,39 @@
+{
+    "uid": "8a8320d31173ca2b5013e6a12b2e0db3665f66c9b9ca723fb25210a1195713ce",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        346
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "For the above struct declaration, which is the proper way to declare a variable for the struct?",
+        "snippet": "1 | struct score{\n2 |    int a;\n3 | };\n4 | ",
+        "choices": [
+            "int score;",
+            "struct score myScore;",
+            "score.a = 100;",
+            "score myScore;"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The proper syntax to declare a variable for a struct is: the keyword 'struct' followed by the struct name (score), followed by the variable name (myScore)"
+        ]
+    }
+}

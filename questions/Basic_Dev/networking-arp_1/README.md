@@ -1,6 +1,6 @@
 ## This protocol is similar to DNS because of the way it maps layer 3 to layer 2 addresses.
 
-KSAs: 218, 223, 225, 1294, 1296, 1298
+KSAs: 218, 223, 225, 1294, 1296
 
 ## Answer
 | A | B | ***C*** | D |

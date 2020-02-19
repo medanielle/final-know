@@ -1,0 +1,39 @@
+{
+    "uid": "1c6206d391900dfa0d3c25136307ad747927222b9e7aaa3167d764457d8cbf48",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        346
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above C code snippet, what is happening on the last line?",
+        "snippet": "1 | struct myGrade{\n2 |    int a;\n3 | };\n4 | \n5 | struct myGrade grade1={1};\n6 | struct myGrade grade2 = grade1;\n7 | ",
+        "choices": [
+            "grade2 is created as an alias to grade1",
+            "grade2 is a pointer pointing to grade1",
+            "the contents of grade1 is being used to create and initialize grade2",
+            "grade2 is replacing grade1 in stack memory"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Similar to any assignment, the contents of the right side variable is used as a copy to populate the contents of the left side variable."
+        ]
+    }
+}

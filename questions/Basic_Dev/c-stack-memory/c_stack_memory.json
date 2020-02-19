@@ -1,0 +1,37 @@
+{
+    "uid": "e1420021666660d7d4129840740da3622c48759cd95d081dcd810bdc2a8468ec",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [],
+    "ksas": [
+        294
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-18 20:25:52",
+    "revision_date": "2019-12-18 20:25:52",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Where is the memory for x being allocated in the above C snippet?",
+        "snippet": "1 | int x = 2; \n2 | ",
+        "choices": [
+            "registers",
+            "heap",
+            "disk",
+            "stack"
+        ],
+        "answer": 3,
+        "explanation": [
+            "All variables are allocated memory on the stack"
+        ]
+    }
+}

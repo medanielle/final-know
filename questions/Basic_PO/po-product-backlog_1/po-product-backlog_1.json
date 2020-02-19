@@ -1,0 +1,39 @@
+{
+    "uid": "96283f5924e6619dd17aa4f6cb95be2b7f447e5e5b4614790048fd7983526762",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873,
+        908,
+        916
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Before starting Product Backlog Item development, how should it be refined?",
+        "snippet": null,
+        "choices": [
+            "So it's clear enough for developers.",
+            "Ensure all required tasks are identified.",
+            "So it can be 'Done' across multiple Sprints.",
+            "So the responsible developer knows this is their item."
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Product Backlog should have enough items at the top to fit into one Sprint. Items should have enough details to understand the task but not so detailed that upfront planning is removed. Backlog items are usually completed by multiple developers; so, they shouldn't be assigned."
+        ]
+    }
+}

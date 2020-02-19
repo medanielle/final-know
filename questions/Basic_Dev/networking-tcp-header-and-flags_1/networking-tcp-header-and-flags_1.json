@@ -1,0 +1,42 @@
+{
+    "uid": "cba5bd4997bf06657bbb3d76407e28f02710e5e05458d666cd4ab9e64a6a1654",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The first item in a TCP header is:",
+        "snippet": null,
+        "choices": [
+            "destination port",
+            "source port",
+            "sequence number",
+            "checksum"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: The destination port is the second item in a TCP header.",
+            "Correct: The source port is the first item in a TCP header.",
+            "Incorrect: The sequence number is the third item in a TCP header.",
+            "Incorrect: The checksum is the ninth item in a TCP header."
+        ]
+    }
+}

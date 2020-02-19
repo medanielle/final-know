@@ -1,6 +1,6 @@
 ## Jimmy sent a package to Dean and noticed the source port was 51234 and the destination port was 666 on one of the TCP packets.  The difference between these two port types is ___.
 
-KSAs: 216, 217, 1293, 1298
+KSAs: 216, 217, 1293
 
 ## Answer
 | A | B | C | ***D*** |

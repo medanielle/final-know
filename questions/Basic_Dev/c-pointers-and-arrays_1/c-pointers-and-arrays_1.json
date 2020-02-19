@@ -1,0 +1,42 @@
+{
+    "uid": "bbe8277a455691c22893daa404e21f026cdcab478040e786e8d1044c798558e0",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        262
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Why would you receive a compile error for the above snippet of code?",
+        "snippet": "1 | struct site\n2 | {\n3 |    char name[10];\n4 |    int no_of_pages;\n5 | };\n6 | struct site *ptr;\n7 | printf(\"%d \", ptr->no_of_pages);\n8 | printf(\"%s\", ptr->name);\n9 | ",
+        "choices": [
+            "There is a semi-colon after the struct declaration.",
+            "struct pointers do no support the -> operator.",
+            "ptr hasn't been initialized.",
+            "pointers cannot be declared for a struct type."
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: struct delarations require a semi-colon at the end",
+            "Incorrect: all pointer support the -> operator",
+            "Correct: On line 6 ptr is declared but never initialized therefore not 'pointing' to anything causing an error during compile.",
+            "Incorrect: pointers can be declared for struct types"
+        ]
+    }
+}

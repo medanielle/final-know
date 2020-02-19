@@ -1,0 +1,41 @@
+{
+    "uid": "d4e605fc7a8038df08da7e478eccf30d16301877c7f13bdd61b50007dc7e4a95",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2",
+        "3.2.7"
+    ],
+    "ksas": [
+        32,
+        80
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "3c",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | values = [3, 5, 7, 9, 11, 13, 15]\n2 | \n3 | for i in range(2, len(values), 2):\n4 |     print (values[i])\n5 | ",
+        "choices": [
+            "5\n7",
+            "7\n9\n11\n13\n15",
+            "7\n11",
+            "7\n11\n15"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Looking at line 3, the range input parameters are as follows, from left to right: starting index (inclusive), ending index (non-inclusive), and step. Therefore, the loop starts at index 2, goes the entire length of the list, and steps by 2. So the first value accessed is 7 (at index 2), then step 2 to the next value of 11 (at index 4), then step 2 to the final value of 15 (at index 6)."
+        ]
+    }
+}

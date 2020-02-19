@@ -1,0 +1,35 @@
+{
+    "uid": "845c22e7043fc34b2f2dbcdf7293f16267a992c254f4aea34a48cb705b6721c7",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Scrum Master is a management role.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Scrum Master is a management role but for the process rather than for the people."
+        ]
+    }
+}

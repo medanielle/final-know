@@ -1,6 +1,6 @@
 ## A TCP socket is different from a UDP socket because ___.
 
-KSAs: 216, 217, 219, 220, 1298, 1305
+KSAs: 216, 217, 219, 220, 1305
 
 ## Answer
 | A | B | ***C*** | D |

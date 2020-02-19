@@ -1,0 +1,39 @@
+{
+    "uid": "4174ee7319dbd8fde15edd732cb8458a36f569b498fc0af85a9a80d3bf59de86",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        115
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-11-18",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In python, which design pattern restricts the instantiation of a class to one object?",
+        "snippet": null,
+        "choices": [
+            "Bridge",
+            "Individual",
+            "Singleton",
+            "Unique"
+        ],
+        "answer": 2,
+        "explanation": [
+            "A singleton design pattern ensures that only one object of a class exists at any given time."
+        ]
+    }
+}

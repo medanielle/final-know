@@ -1,0 +1,42 @@
+{
+    "uid": "8dcc9aa1abd3c7418a0a1b068e5127138a6fb544fcbd0b6a5c82ec9ce3deb60e",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        252
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-11-18",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is true about the 'main' function in C progamming?",
+        "snippet": null,
+        "choices": [
+            "There can be mulitple 'main' functions in a program.",
+            "The 'main' function does not have a return type.",
+            "All execution begins and ends in the 'main' function.",
+            "'main' is an optional function to have in a program."
+        ],
+        "answer": 2,
+        "explanation": [
+            "False: A C program can only have one main function.",
+            "False: The main function needs a return type even if it is void.",
+            "True: The main function is where all execution begins and ends in a C program",
+            "False: All C programs must have a main function."
+        ]
+    }
+}

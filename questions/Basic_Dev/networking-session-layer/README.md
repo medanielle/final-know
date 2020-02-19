@@ -1,6 +1,6 @@
 ## This networking OSI layer establishes, manages and terminates connections between applications
 
-KSAs: 218, 1298
+KSAs: 218
 
 ## Answer
 | A | B | ***C*** | D |

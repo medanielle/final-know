@@ -1,0 +1,40 @@
+{
+    "uid": "8d686191a99d8540c7b9dd347ad886e0cf8d68230b2a0684baf03a7aaa465c4c",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        262,
+        263
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "For the above C code snippet, what is contained in s?",
+        "snippet": "1  | void main()\n2  | {\n3  |    double scores[20];\n4  |    fun(scores);\n5  | }\n6  | \n7  | void fun(double s[])\n8  | {\n9  |    // do something here\n10 | }\n11 | ",
+        "choices": [
+            "First value of the score array",
+            "Base address of the score array",
+            "Entire contents of score array",
+            "A copy of the entire score array"
+        ],
+        "answer": 1,
+        "explanation": [
+            "When a function is invoked and provide an array name as an argument, the base address of the array is what is actually passed to the function."
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "uid": "73195671ad80f1da9dc85fcc4708c143f363587674e8bf7d7718efa3a3f1685d",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        576,
+        580,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, to put data into a registry, you use the _____ opcode.",
+        "snippet": null,
+        "choices": [
+            "ins",
+            "mov",
+            "equ",
+            "asn"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: ins is not a valid assembly opcode",
+            "Correct: mov is the correct opcode to move a value into a register",
+            "Incorrect: equ is not a valid assembly opcode",
+            "Incorrect: asn is not a valid assembly opcode"
+        ]
+    }
+}

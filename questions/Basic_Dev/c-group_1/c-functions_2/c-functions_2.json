@@ -1,0 +1,99 @@
+{
+    "uid": "8b85cd96bc81ff9db4e07f5437ff1f8cb4e05e0aa6f53743b45b013ad6990452",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        256
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:37:54",
+    "revision_date": "2020-01-31 03:53:24",
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which line of code contains a function prototype?",
+        "snippet": "1  | #include <stdio.h>\n2  | #include <stdlib.h>\n3  | \n4  | #define y 10\n5  | \n6  | float getQuotient(int, int);\n7  | \n8  | int main()\n9  | {\n10 |     int x = rand();\n11 | \n12 |     float z = getQuotient(x,y);\n13 |     \n14 |     float* p = (float *) malloc(y * sizeof(float));\n15 |     \n16 |     p[0] = z;\n17 |     \n18 |     printf(\"Result is %f\", *p);\n19 |     \n20 |     return 0;\n21 | }\n22 | \n23 | float getQuotient(int numerator, int denominator)\n24 | {\n25 |     return (float)numerator/denominator;\n26 | }\n27 | ",
+        "choices": [
+            "10",
+            "6",
+            "12",
+            "19"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: Line 10 is calling (invoking) an existing library function rand()",
+            "Correct: a function prototype is a single line typically at the top of the program that provides the signature for a function to be defined later",
+            "Incorrect: Line 12 is calling (invoking) an the function getQuotient",
+            "Incorrect: there is no code on this line"
+        ],
+        "group": {
+            "name": "c-group_1",
+            "questions": [
+                "fd424b5c6f528550d6644695c0646976411a937988aff4b76bfc7307852a22f1",
+                "fd424b5c6f528550d6644695c0646976411a937988aff4b76bfc7307852a22f1",
+                "fd424b5c6f528550d6644695c0646976411a937988aff4b76bfc7307852a22f1",
+                "fd424b5c6f528550d6644695c0646976411a937988aff4b76bfc7307852a22f1",
+                "08af9d5a9a88145c6a6aa397468f75765d6c047768d92b517169841cd1b07efb",
+                "08af9d5a9a88145c6a6aa397468f75765d6c047768d92b517169841cd1b07efb",
+                "08af9d5a9a88145c6a6aa397468f75765d6c047768d92b517169841cd1b07efb",
+                "08af9d5a9a88145c6a6aa397468f75765d6c047768d92b517169841cd1b07efb",
+                "d959f27171ad393daefa00bfd079ed5b299e17409ea3a0c33602060f949d8606",
+                "d959f27171ad393daefa00bfd079ed5b299e17409ea3a0c33602060f949d8606",
+                "d959f27171ad393daefa00bfd079ed5b299e17409ea3a0c33602060f949d8606",
+                "d959f27171ad393daefa00bfd079ed5b299e17409ea3a0c33602060f949d8606",
+                "e03aeec6a3c614b570a9311517c6417f09e16a83e718acb01cdd5f8d772bf3d3",
+                "e03aeec6a3c614b570a9311517c6417f09e16a83e718acb01cdd5f8d772bf3d3",
+                "e03aeec6a3c614b570a9311517c6417f09e16a83e718acb01cdd5f8d772bf3d3",
+                "e03aeec6a3c614b570a9311517c6417f09e16a83e718acb01cdd5f8d772bf3d3",
+                "cd346673482db20100359283d31be4fad83e865a7add212e59156710554f9092",
+                "cd346673482db20100359283d31be4fad83e865a7add212e59156710554f9092",
+                "cd346673482db20100359283d31be4fad83e865a7add212e59156710554f9092",
+                "cd346673482db20100359283d31be4fad83e865a7add212e59156710554f9092",
+                "327ad4e8da4313cc656147edda775aad2cb9e54108ee3f3465fd5a263294e3e9",
+                "327ad4e8da4313cc656147edda775aad2cb9e54108ee3f3465fd5a263294e3e9",
+                "327ad4e8da4313cc656147edda775aad2cb9e54108ee3f3465fd5a263294e3e9",
+                "327ad4e8da4313cc656147edda775aad2cb9e54108ee3f3465fd5a263294e3e9",
+                "e3ecbd4cf54c7adc220298eca1956e134d6906d5985885b1a10f8b8650a3062e",
+                "e3ecbd4cf54c7adc220298eca1956e134d6906d5985885b1a10f8b8650a3062e",
+                "e3ecbd4cf54c7adc220298eca1956e134d6906d5985885b1a10f8b8650a3062e",
+                "e3ecbd4cf54c7adc220298eca1956e134d6906d5985885b1a10f8b8650a3062e",
+                "53e5820b751e6aadc8902bde79655e7f245e4063c61d66f5da5ec43a276a4006",
+                "53e5820b751e6aadc8902bde79655e7f245e4063c61d66f5da5ec43a276a4006",
+                "53e5820b751e6aadc8902bde79655e7f245e4063c61d66f5da5ec43a276a4006",
+                "53e5820b751e6aadc8902bde79655e7f245e4063c61d66f5da5ec43a276a4006",
+                "e37dcedffa8f1d15a6d4a83dca2a16de806a267e427a642c2d25e988505bb0ae",
+                "e37dcedffa8f1d15a6d4a83dca2a16de806a267e427a642c2d25e988505bb0ae",
+                "e37dcedffa8f1d15a6d4a83dca2a16de806a267e427a642c2d25e988505bb0ae",
+                "e37dcedffa8f1d15a6d4a83dca2a16de806a267e427a642c2d25e988505bb0ae",
+                "bd211037e013db9a6aa5dd79bf956a3cc7d125ada7ae2de5ea23bb5e254debd1",
+                "bd211037e013db9a6aa5dd79bf956a3cc7d125ada7ae2de5ea23bb5e254debd1",
+                "bd211037e013db9a6aa5dd79bf956a3cc7d125ada7ae2de5ea23bb5e254debd1",
+                "bd211037e013db9a6aa5dd79bf956a3cc7d125ada7ae2de5ea23bb5e254debd1",
+                "a5c1514ee9392ade56f5692378bc0059b13e7d758ec4e4f6394461f50894cf9a",
+                "a5c1514ee9392ade56f5692378bc0059b13e7d758ec4e4f6394461f50894cf9a",
+                "a5c1514ee9392ade56f5692378bc0059b13e7d758ec4e4f6394461f50894cf9a",
+                "a5c1514ee9392ade56f5692378bc0059b13e7d758ec4e4f6394461f50894cf9a",
+                "6d1968dd8a3c203bf7818570a9aaea9ed272b71c4a0e1dffcc3d6afdb5d93a3c",
+                "6d1968dd8a3c203bf7818570a9aaea9ed272b71c4a0e1dffcc3d6afdb5d93a3c",
+                "6d1968dd8a3c203bf7818570a9aaea9ed272b71c4a0e1dffcc3d6afdb5d93a3c",
+                "6d1968dd8a3c203bf7818570a9aaea9ed272b71c4a0e1dffcc3d6afdb5d93a3c",
+                "c60b2b24ff5951870f3d30bbb77aaf3f76d2c4994609f1174acfb158a7519eb3",
+                "c60b2b24ff5951870f3d30bbb77aaf3f76d2c4994609f1174acfb158a7519eb3",
+                "c60b2b24ff5951870f3d30bbb77aaf3f76d2c4994609f1174acfb158a7519eb3",
+                "c60b2b24ff5951870f3d30bbb77aaf3f76d2c4994609f1174acfb158a7519eb3",
+                "56de2b1b4f96c203ee1128fa105e8277fdc63020dbab19c62e67ebd84d8d09e3",
+                "56de2b1b4f96c203ee1128fa105e8277fdc63020dbab19c62e67ebd84d8d09e3",
+                "56de2b1b4f96c203ee1128fa105e8277fdc63020dbab19c62e67ebd84d8d09e3",
+                "56de2b1b4f96c203ee1128fa105e8277fdc63020dbab19c62e67ebd84d8d09e3"
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "uid": "598e3145a76dab91e3bc5af04d54edbd1d37c5bff6e8f097daec8fc555b4bfb2",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.2.8"
+    ],
+    "ksas": [
+        219,
+        220,
+        1305
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following Python functions enables data transfer?",
+        "snippet": null,
+        "choices": [
+            "bind()",
+            "socket()",
+            "connect()",
+            "send()"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: bind() binds a socket to the address.",
+            "Incorrect: socket() creates a new socket using the given address family.",
+            "Incorrect: connect() connects to a remote socket at address.",
+            "Correct: send() sends data to the socket."
+        ]
+    }
+}

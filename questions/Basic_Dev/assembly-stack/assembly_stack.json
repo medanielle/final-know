@@ -1,0 +1,41 @@
+{
+    "uid": "11307f2c215b4cbc5a201d5336427a621243ab4f9ba6993b5eb32d4fabdd60e3",
+    "topic": "Assembly",
+    "version": "x86",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        575,
+        576,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-08-15",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "When working with the stack in Assembly, which of the following are correct?",
+        "snippet": null,
+        "choices": [
+            "The stack grows from low memory addresses to high memory addresses",
+            "The stack memory addresses are randomly selected by the OS",
+            "The stack grows from high memory addresses to low memory addresses",
+            "The stack is a first in first out memory structure"
+        ],
+        "answer": 0,
+        "explanation": [
+            "A stack uses a linear set of memory addresses and work as a last in, first out order (LIFO) utilizing from high to low memory addresses within the allocated stack."
+        ]
+    }
+}

@@ -10,7 +10,7 @@
 
 ## What common data structure would you use the above structure for in C programming?
 
-KSAs: 405
+KSAs: 138
 
 ## Answer
 | A | ***B*** | C | D |

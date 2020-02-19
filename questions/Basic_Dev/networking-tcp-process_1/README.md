@@ -1,6 +1,6 @@
 ## The TCP process may not write and read data at the same speed, so ______ are needed for storage.
 
-KSAs: 216, 1298
+KSAs: 216
 
 ## Answer
 | A | ***B*** | C | D |

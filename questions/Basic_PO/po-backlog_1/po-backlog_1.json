@@ -1,0 +1,35 @@
+{
+    "uid": "13e6c7127c827f7e3297bf83bcdf8413ef16c1e5156f7c931295f3c1315ce594",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Developers sign up to own backlog items during Sprint Planning.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The ownership of the items and tasks are shared. The items are not even \"assigned\" to developers because they require multiple expertise. Only the tasks are assigned and even then, their ownership is shared."
+        ]
+    }
+}

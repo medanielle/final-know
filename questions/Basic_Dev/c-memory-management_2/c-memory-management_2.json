@@ -1,0 +1,39 @@
+{
+    "uid": "b9621f6e8a53bd19ea2f14abe20f2a8e26b9e4deb4ebd47fe9a262f29157969c",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.2"
+    ],
+    "ksas": [
+        296
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What C command is use to allocate memory dynamically?",
+        "snippet": null,
+        "choices": [
+            "malloc",
+            "alloc",
+            "new",
+            "memcpy"
+        ],
+        "answer": 0,
+        "explanation": [
+            "malloc is the command used to allocate memory dynamcially (at run time)"
+        ]
+    }
+}

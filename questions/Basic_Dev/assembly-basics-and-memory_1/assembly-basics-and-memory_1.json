@@ -1,0 +1,54 @@
+{
+    "uid": "604f5fc3abecd66f2d2be62a82b0d5737a6fa6af08857e899e3f6327db079c94",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        598,
+        599,
+        600,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, what's contained in the leftmost byte of the rax register?",
+        "snippet": "1 | movzx rax, cl\n2 | ",
+        "choices": [
+            "a copy of the cl contents",
+            "residual data",
+            "all zeroes",
+            "address of cl"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: Moving a smaller register (c1) to a larger register (rax) will result in the cl contents being placed in the rightmost bits",
+            "Incorrect: The movzs puts all zeros in unfilled bits therefore there will be no residual data",
+            "Correct: The movzx puts zeros in all unfilled bits from a mov command, because cl only has 8 bits, the leftmost 56 bits (7 bytes) are filled with zeros",
+            "Incorrect: this mov command moves contents of a register not an address"
+        ]
+    }
+}

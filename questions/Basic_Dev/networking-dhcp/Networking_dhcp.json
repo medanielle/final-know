@@ -1,0 +1,42 @@
+{
+    "uid": "0b2c1af22a0db0729711e4ff4ec08c7d4dc741402d3f5e184a593c55103778c5",
+    "topic": "Networking",
+    "version": "3.7",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        228
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-11-18",
+    "revision_date": "2020-01-08 18:57:26",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Dynamic Host Configuration Protocol (DHCP) is a network management protocol __________.",
+        "snippet": null,
+        "choices": [
+            "used on networks whereby a server dynamically assigns an IP address to each device.",
+            "used to copy files from one host to another.",
+            " that defines a mechanism for communication between browser and the web server.",
+            "naming system for devices connected to the Internet and associates devices with domain names."
+        ],
+        "answer": 0,
+        "explanation": [
+            "correct",
+            "This is the definition for the FTP protocol",
+            "this is the definition for the HTTP protocol",
+            "this is the definition for DNS"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "f731ddfd2e7f6461039b9fed42c876d636205580820fb92a299841346faad686",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What percentage of time should the Product Owner dedicate to the team",
+        "snippet": "",
+        "choices": [
+            "100%",
+            "50%",
+            "As much time as is needed to maximize value",
+            "Enough to refine the backlog"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Since environments can be different the Product Owner should spend as much time as is needed to maximize value."
+        ]
+    }
+}

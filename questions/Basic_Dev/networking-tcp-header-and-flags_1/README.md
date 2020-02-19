@@ -1,6 +1,6 @@
 ## The first item in a TCP header is:
 
-KSAs: 216, 1298
+KSAs: 216
 
 ## Answer
 | A | ***B*** | C | D |

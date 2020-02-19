@@ -1,0 +1,40 @@
+{
+    "uid": "200bd6f04cefac220b2667042515da991df09f821dd92e7ad13090703a34b9c6",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [],
+    "ksas": [
+        83
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "3c",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the syntax error in the above Python code snippet?",
+        "snippet": "1 | if var == 100   \n2 |    print (\"Value of expression is 100\")\n3 | ",
+        "choices": [
+            "indention must be at least 8 spaces",
+            "the : is missing after the if expression",
+            "the print statement is printing a hard-coded string",
+            "all if expression require an else"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: there is no set limit to the number of spaces used for indention.",
+            "Correct: the conditional expression requires a trailing colon.",
+            "Incorrect: hard-coded strings do not cause syntax errors",
+            "Incorrect: if expressions can be by themselves, or contain elif and/or else statements."
+        ]
+    }
+}

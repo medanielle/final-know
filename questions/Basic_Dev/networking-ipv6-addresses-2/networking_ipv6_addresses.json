@@ -1,0 +1,43 @@
+{
+    "uid": "7aba5dddc1f1601da4e240800a3d59ee7315b031ccbf76e1294921d231780fac",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        230,
+        233
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-09-26",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following are valid IPV6 addresses?",
+        "snippet": null,
+        "choices": [
+            "2001:0db8:0000:0000:0000:ff00:0042:8329",
+            "2001:db8:0:0:0:ff00:42:8329",
+            "2001:db8::ff00:42:8329",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": [
+            "IPv6 addresses are 128 bits long and represented by groups of 1-4 hex characters separated by a :",
+            "Using the recommendations in RFC5952 section 4.2 we can shorten that IPv6 address. Leading 0's in a grouping may be omitted.",
+            "It may contain at MOST a single :: which represents the largest contiguous block (longer than 16 bits) of 0's in the address",
+            "all are correct"
+        ]
+    }
+}

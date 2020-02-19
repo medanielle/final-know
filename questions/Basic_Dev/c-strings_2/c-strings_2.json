@@ -1,0 +1,39 @@
+{
+    "uid": "a47e63cb76367bca8660d84b990d1401efb32f1b640b6dbb4a0a4f010db1adb4",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        350
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output of the above C code snippet?",
+        "snippet": "1 | char s[20] = \"Hello\\0Hi\";\n2 | \n3 | printf(\"%s\", s);\n4 | ",
+        "choices": [
+            "Hello\\0Hi",
+            "Hello Hi",
+            "Hello",
+            "Hi"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The printf's behavior when printing a char array is to print each character until the NULL (\\0) character is encounterd.  Therefore, only 'Hello' will print. In c programming the \\0 char signifies the end of a string.  If you did strlen(s) the result would be 5."
+        ]
+    }
+}

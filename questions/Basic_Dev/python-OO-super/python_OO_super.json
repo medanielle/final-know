@@ -1,0 +1,40 @@
+{
+    "uid": "a4938e803eadc2b97300583cbafbba235d17bad10658c269ae214bc3292a1953",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        109,
+        110
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In python when using inheritance how would you call the __init__() function of a parent class inside a subclass __init__() function",
+        "snippet": null,
+        "choices": [
+            "ancestor.__init__()",
+            "super.__init__()",
+            "parent.__init__()",
+            "base.__init__()"
+        ],
+        "answer": 1,
+        "explanation": [
+            "the super keyword is used to reference an item in the inherited base class from the sub-class in python."
+        ]
+    }
+}

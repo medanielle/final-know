@@ -1,0 +1,36 @@
+{
+    "uid": "f9abd5bda62bbf8801320377699767748b57681d96039b0117747332f52689db",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        912,
+        916
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Backlog is only refined in Sprint Planning and Sprint Review meetings",
+        "snippet": "",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The Product Backlog can be updated at any time."
+        ]
+    }
+}

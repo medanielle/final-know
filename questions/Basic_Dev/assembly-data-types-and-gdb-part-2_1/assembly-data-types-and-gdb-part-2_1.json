@@ -1,0 +1,45 @@
+{
+    "uid": "661c2c78c50da809007c661a5e033c360eed2b7c5e6028b43db598f43b79f2c9",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        576,
+        599,
+        600,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, which of the following is a valid \"high\" 8-bit sub register?",
+        "snippet": null,
+        "choices": [
+            "ah",
+            "al",
+            "ax",
+            "eax"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: the 'h' in ah indicates a high bit sub register and is 8 bits",
+            "Incorrect: the 'l' in al indicates a low bit sub register and is 8 bits",
+            "Incorrect: ax is a 16-bit sub register",
+            "Incorrect: eax is a 32-bit sub register"
+        ]
+    }
+}

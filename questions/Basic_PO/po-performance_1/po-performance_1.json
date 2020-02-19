@@ -1,0 +1,39 @@
+{
+    "uid": "4cf809ef6e551bcfbed55ac5149b2a11b0ad4107c78a660a5bf36d5c5bb545bd",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        907
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who should know the most about the project performance?",
+        "snippet": null,
+        "choices": [
+            "The Product Owner",
+            "The Scrum Master",
+            "The Scrum Team",
+            "The Project Manager",
+            "The Development Team"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Measuring the release or project performance is the Product Owner's responsibility. Measuring the Sprint performance is the Development Team's responsibility."
+        ]
+    }
+}

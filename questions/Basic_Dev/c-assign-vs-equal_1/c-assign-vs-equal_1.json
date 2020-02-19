@@ -1,0 +1,41 @@
+{
+    "uid": "24d96bbf307a2655fb06925e17f1c144a2e3739efe8296fe82d3a58c10c3a23b",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        266
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the above C code snippet, what is the problem?",
+        "snippet": "1 | int x = 5;\n2 | if(x = 3)\n3 |    printf(\"it is equal\");\n4 | else\n5 |    printf(\"it is not equal\");\n6 | ",
+        "choices": [
+            "3 is being assigned to x instead of compared.",
+            "if statements require curly braces if there is an else.",
+            "printing strings require a %s specifier.",
+            "the code is logically correct."
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: the correct syntax for comparison should be x == 3 vs. x = 3",
+            "Incorrect: if statements do not require curly braces if they contain only one statement in their body",
+            "Incorrect: specifiers are optional for the printf function"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "8750bb56bd7dca9e104cd86a4f0e2f58352134f6e2cc6eda55eeb44cfaf964dc",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.3"
+    ],
+    "ksas": [
+        349
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-06 23:46:47",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What does this code do?",
+        "snippet": "1 | typedef unsigned int counter;\n2 | ",
+        "choices": [
+            "Creates an unsigned int named counter.",
+            "Creates a new type named counter that acts like an unsigned int.",
+            "Creates a variable named counter that has no type defined until runtime",
+            "Creates a new struct that can only hold unsigned int"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: typedef does not create variables, it creates a new type that acts like the type specified.",
+            "Correct: typedef defines a type with another name to be used in specific contexts.",
+            "Incorrect: C can not allocate memory on the stack at runtime. typedef creates a new type that acts like the type specified.",
+            "Incorrect: typedef can be used to define structs but it is only defining a single unsigned int as counter."
+        ]
+    }
+}

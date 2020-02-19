@@ -1,0 +1,42 @@
+{
+    "uid": "cf2085a53470afd510ffe7f14fad94ffebd14e8cb76a2e773456d9066729a916",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        255,
+        262
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:39:06",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is printed for the above code?",
+        "snippet": "1 | int a = 10;\n2 | int *c = &a;\n3 | printf(\"%d\",c);\n4 | ",
+        "choices": [
+            "10",
+            "the address of a",
+            "the address of c",
+            "Nothing"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: in order to print the contents (10) the pointer would have to be dereferenced: *c",
+            "Correct: c is defined as a pointer and is being assigned the address of a in line 2, when the c pointer is printed it prints the address of a",
+            "Incorrect: in order to print the address of c, it needs to be prepended with an ampersand:  &c"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "uid": "a544d28fb09fd7d9aeb67c188b93f823221440be16b40743a938fbb1af1fc9a9",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1",
+        "Not in JQR"
+    ],
+    "ksas": [
+        262,
+        346
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the above code, how would you assign a value to name in the Person struct object?",
+        "snippet": "1  | struct Person {\n2  |    char name[20];\n3  |    int age;\n4  | }p;\n5  | \n6  | void main()\n7  | {\n8  |    struct Person * p=(struct Person p)malloc(sizeof(Person));\n9  |    // Here...\n10 | }\n11 | ",
+        "choices": [
+            "Person->name = \"Ted\"",
+            "p.name = \"Ted\"",
+            "p->name = \"Ted\"",
+            "Person.name = \"Ted\""
+        ],
+        "answer": 2,
+        "explanation": [
+            "On line 8, p is being declared as a poiinter of type struct Person. To access any element of a struct via a pointer, you use the pointer name followed by -> operator.  Therefor p->name to access the name, p->age to access the age."
+        ]
+    }
+}

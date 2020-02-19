@@ -1,0 +1,39 @@
+{
+    "uid": "4f80dcd7965685d813b84971812a03aef1b4329a06fce3605093bdc11e5d3e49",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853,
+        1345
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What's the main responsibility of testers in Scrum?",
+        "snippet": null,
+        "choices": [
+            "Verifying the programmer's output",
+            "Proactively verify the programmer's output",
+            "Help the team incorporate the test driven development practice",
+            "Find bugs",
+            "There's no tester role in Scrum"
+        ],
+        "answer": 4,
+        "explanation": [
+            "There are only three roles in Scrum: Product Owner, Scrum Master and Development Team. It's not allowed to define new roles and the Development Team members should not have any titles; they are all \"developers\". It is so, because we want all of them to be accountable for everything and to collaborate with each other. Each person has his/her own area of expertise, such as testing, and that person will be more focused on testing tasks but it doesn't mean that we can call the person \"tester\"."
+        ]
+    }
+}

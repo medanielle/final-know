@@ -1,0 +1,41 @@
+{
+    "uid": "50880cec07829873f4b821f0c565973b5f6d4cdfddff67a4a7206a9424ced076",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.3"
+    ],
+    "ksas": [
+        254,
+        260,
+        264
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-17 18:31:33",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "How do you prevent multiple dependencies from causing compilation errors?",
+        "snippet": null,
+        "choices": [
+            "Only #include source files",
+            "#include will overwrite the previous #include if they are the same file.",
+            "Use the preprocessor directives #ifndef, #define, and #endif to check if a header file was already included",
+            "Only one file can be #include into a file."
+        ],
+        "answer": 2,
+        "explanation": [
+            "You should use include guards in your header files to stop the declarations from running if they were declared already."
+        ]
+    }
+}

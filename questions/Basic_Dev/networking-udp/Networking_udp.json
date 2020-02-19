@@ -1,0 +1,39 @@
+{
+    "uid": "508ab151c9606f0f0a0f459aa92636dba18cb06979bfc48eff38a41448721cce",
+    "topic": "Networking",
+    "version": "3.7",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        217
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-11-18",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is correct about the UDP protocol?",
+        "snippet": null,
+        "choices": [
+            "Keeps track of lost packets",
+            "Adds sequence numbers",
+            "Checks packet arrival order",
+            "Faster than TCP"
+        ],
+        "answer": 3,
+        "explanation": [
+            "UDP is faster than TCP because it doesn't add sequence numbers, doesn't try to keep track of lost packets, and doesn't check for arrival order like TCP"
+        ]
+    }
+}

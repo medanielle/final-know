@@ -1,0 +1,43 @@
+{
+    "uid": "9633b53cb02fb6eac76425463ceabfe7c7e78d31b43ebc7d031560d39d3db9b0",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        218,
+        238
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In networking, what Layer 2 device connects two independent physical networks, does not perform error checking and does not have a buffer?",
+        "snippet": null,
+        "choices": [
+            "Hub",
+            "Bridge",
+            "Switch",
+            "Repeater"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: Hubs are layer 1, the physical layer.",
+            "Correct: Bridges are layer 2, the data link layer, and do not do any error checking.",
+            "Incorrect: Switch are also layer 2, but because switches are basically mulitport bridges, they have error checking per port.",
+            "Incorrect: A Repeaters are layer 1, the physical layer."
+        ]
+    }
+}

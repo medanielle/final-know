@@ -1,0 +1,39 @@
+{
+    "uid": "6e95d349af0778e47514d4715d42f46dd71af790f6dcddbf88d33ec34179d0b6",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        889,
+        892,
+        899
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Development Team cannot deliver the Increment because they don't understand a functional requirement. What should they do?",
+        "snippet": null,
+        "choices": [
+            "Partially complete the work",
+            "Move the work to a future Sprint",
+            "Ask a specialist to solve the problem within the remaining duration of the Sprint",
+            "Collaborate with the Product Owner to solve the problem"
+        ],
+        "answer": 3,
+        "explanation": [
+            "The Product Owner is responsible to make all items clear and understood. If the problem wasn't solved, then there's no option other than leaving it to go back to the Product Backlog at the end of the Sprint and be done later. The team is cross-functional and doesn't use external help. We don't deliver partially complete items; everything should be done based on the definition of \"Done\"."
+        ]
+    }
+}

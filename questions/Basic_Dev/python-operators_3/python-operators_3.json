@@ -1,0 +1,40 @@
+{
+    "uid": "05d7e633e2dc7572b7fb877410bf4d732f07c23d7ece2f3da2e0be21426e020d",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.3"
+    ],
+    "ksas": [
+        60,
+        40
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:39:06",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the result of 3 % 5 in Python 3?",
+        "snippet": null,
+        "choices": [
+            "3",
+            "0",
+            "2",
+            "5"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Since the % character represents the modulus arithmetic operation, the answer is the remainder of 3 / 5, which is 3."
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "uid": "cd2a33819a8f3fe4ddafe3201f10ba588ec991c163ed591d3806782decda1cb9",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        42,
+        43
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:58:24",
+    "revision_date": "2020-01-31 03:53:24",
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What type of container is names?",
+        "snippet": "1  | def getAverage(GoT):\n2  |    tot = 0\n3  |    count = 0\n4  |    for rank in GoT.values():\n5  |       tot += rank\n6  |       count += 1\n7  | \n8  |    return int(tot/count)\n9  | \n10 | names = ['Cersei','Arya','Jon','Denerys','Tyrion','Jon','Sam','Arya'] \n11 |    \n12 | peeps = {'Jon':16,'Denerys':7,'Tyrion':15,'Cersei':2,'Arya':20}\n13 | \n14 | print(peeps[names[0]])\n15 | \n16 | peeps['Tyrion'] = 18\n17 | \n18 | avg = getAverage(peeps)\n19 | \n20 | castNames = {'Arya'}\n21 | \n22 | for name in names:\n23 |    castNames.add(name)\n24 | \n25 | print(names[len(names)])\n26 | ",
+        "choices": [
+            "List",
+            "Array",
+            "String",
+            "Set"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: A list is declared with square brackets.",
+            "Incorrect: Python does not have array containers.",
+            "Incorrect: A string is declared by surrounding text with either single or double quotes.",
+            "Incorrect: A set is declared using curly brackets and comma separated values, no key-value pairs present."
+        ],
+        "group": {
+            "name": "python-group_1",
+            "questions": [
+                "97075ec6a4436ebe8926b5513568fbf8dfe191030f49c5abe1cae0fbbf253002",
+                "97075ec6a4436ebe8926b5513568fbf8dfe191030f49c5abe1cae0fbbf253002",
+                "97075ec6a4436ebe8926b5513568fbf8dfe191030f49c5abe1cae0fbbf253002",
+                "97075ec6a4436ebe8926b5513568fbf8dfe191030f49c5abe1cae0fbbf253002",
+                "c1ffc5067a0c062123c59ec6272f8e1914c95aec2a364bf1ddb1f4fda40b9857",
+                "c1ffc5067a0c062123c59ec6272f8e1914c95aec2a364bf1ddb1f4fda40b9857",
+                "c1ffc5067a0c062123c59ec6272f8e1914c95aec2a364bf1ddb1f4fda40b9857",
+                "c1ffc5067a0c062123c59ec6272f8e1914c95aec2a364bf1ddb1f4fda40b9857",
+                "6e85e21bea43b6de195c2159cfa8adb74e0d4ec3a81d9d263faace28e256d673",
+                "6e85e21bea43b6de195c2159cfa8adb74e0d4ec3a81d9d263faace28e256d673",
+                "6e85e21bea43b6de195c2159cfa8adb74e0d4ec3a81d9d263faace28e256d673",
+                "6e85e21bea43b6de195c2159cfa8adb74e0d4ec3a81d9d263faace28e256d673",
+                "06a4e0fe03ba46db7265715098fe9fb2130046d7b1a4f87cb90da14586e9f94e",
+                "06a4e0fe03ba46db7265715098fe9fb2130046d7b1a4f87cb90da14586e9f94e",
+                "06a4e0fe03ba46db7265715098fe9fb2130046d7b1a4f87cb90da14586e9f94e",
+                "06a4e0fe03ba46db7265715098fe9fb2130046d7b1a4f87cb90da14586e9f94e",
+                "69f6fbac93e1e43c53ecfd66ad6b2481fe86f4b3130a09fbf712d09df69705cd",
+                "69f6fbac93e1e43c53ecfd66ad6b2481fe86f4b3130a09fbf712d09df69705cd",
+                "69f6fbac93e1e43c53ecfd66ad6b2481fe86f4b3130a09fbf712d09df69705cd",
+                "69f6fbac93e1e43c53ecfd66ad6b2481fe86f4b3130a09fbf712d09df69705cd",
+                "7f3388084b9c13e3efafa455138ace473caf1f2c17378fa23c0dbd9a461778d8",
+                "7f3388084b9c13e3efafa455138ace473caf1f2c17378fa23c0dbd9a461778d8",
+                "7f3388084b9c13e3efafa455138ace473caf1f2c17378fa23c0dbd9a461778d8",
+                "7f3388084b9c13e3efafa455138ace473caf1f2c17378fa23c0dbd9a461778d8",
+                "9f6a8ce72756084d986b6b37ac7190c865205a6c708572bccf07c4249e46915e",
+                "9f6a8ce72756084d986b6b37ac7190c865205a6c708572bccf07c4249e46915e",
+                "9f6a8ce72756084d986b6b37ac7190c865205a6c708572bccf07c4249e46915e",
+                "9f6a8ce72756084d986b6b37ac7190c865205a6c708572bccf07c4249e46915e",
+                "c418228d17273d6c2d8039029d8ea351103b22d37a0e4983c5186c9e2f9b5e47",
+                "c418228d17273d6c2d8039029d8ea351103b22d37a0e4983c5186c9e2f9b5e47",
+                "c418228d17273d6c2d8039029d8ea351103b22d37a0e4983c5186c9e2f9b5e47",
+                "c418228d17273d6c2d8039029d8ea351103b22d37a0e4983c5186c9e2f9b5e47",
+                "1bcd27e530398c782e71b236924deb24ac0ffb0b3d2e219bb4ae4e9f7ac1b49c",
+                "1bcd27e530398c782e71b236924deb24ac0ffb0b3d2e219bb4ae4e9f7ac1b49c",
+                "1bcd27e530398c782e71b236924deb24ac0ffb0b3d2e219bb4ae4e9f7ac1b49c",
+                "1bcd27e530398c782e71b236924deb24ac0ffb0b3d2e219bb4ae4e9f7ac1b49c"
+            ]
+        }
+    }
+}

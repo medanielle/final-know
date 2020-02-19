@@ -1,0 +1,39 @@
+{
+    "uid": "246aaa09ad088ade24c85cc4c9c476a69990c368185389b3a899c9a115e445af",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        860,
+        913,
+        914
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "How can we ensure that the performance requirements are addressed in the solution?",
+        "snippet": null,
+        "choices": [
+            "Add them to the definition of 'Done'",
+            "Add them as items to the reports",
+            "Add a performance tester to the team",
+            "Use hardening Sprints to improve performance"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Performance, like security, scalability and maintainability is a non-functional feature. Non-functional features are normally added to the definition of \"Done\" because they apply to all functional features. For some non-functional features, such as performance, it's possible to create non-technical, independent items in the Product Backlog. This is usually done when we have to make an improvement in the previously done features."
+        ]
+    }
+}

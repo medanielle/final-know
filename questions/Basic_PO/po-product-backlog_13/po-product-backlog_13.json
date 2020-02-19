@@ -1,0 +1,38 @@
+{
+    "uid": "5c0ca38e902881d92ce080f9696034c95cec5a867c5ee0b8a08474ac52c8c6ba",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is the single source of requirements for all changes to the product?",
+        "snippet": null,
+        "choices": [
+            "The Increment",
+            "The Product Backlog",
+            "The Sprint Backlog",
+            "The Sprint Retrospective",
+            "The Sprint Review"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Everything we might want to apply to the product, including changes, are reflected in the Product Backlog. It's high-level but contains everything."
+        ]
+    }
+}

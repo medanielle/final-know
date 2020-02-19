@@ -1,0 +1,38 @@
+{
+    "uid": "fe4b2fa6a1887aaff610d7864ddb023326876bbf1e3e83531d2015c8d460603a",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        860,
+        890,
+        894,
+        895
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "All interactions between the stakeholders and the Development Team should be through the Product Owner.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The interactions can be through the Product Owner or during the Sprint Review. Other interactions are discouraged as they distract the developers."
+        ]
+    }
+}

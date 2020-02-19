@@ -1,0 +1,37 @@
+{
+    "uid": "e4413d880853a2cf3a9bb60c5db2c4401b5b9f73a2719134535884eddb768146",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What should the Product Owner do during the Sprint Retrospective?",
+        "snippet": null,
+        "choices": [
+            "Capture the Development Team's answers",
+            "Participate as a Scrum Team member",
+            "Prioritize the outputs of the meeting",
+            "Summarize and report the results to the senior management"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The whole Scrum Team should participate in the Sprint Retrospective to find an improvement to be applied in the next Sprint; including the Product Owner."
+        ]
+    }
+}

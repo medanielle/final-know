@@ -1,0 +1,39 @@
+{
+    "uid": "4159041f069955304a07ea542477f1ff282653b2dafe41deb17053c3862ff4f3",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        42
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | sentence = \"The light-brown fox.\"\n2 | print (sentence[9:])\n3 | ",
+        "choices": [
+            "brown fox.",
+            "b",
+            "-",
+            "-brown fox."
+        ],
+        "answer": 3,
+        "explanation": [
+            "Line 2 uses a range to display several characters at once. Since the left number in [9:] is 9, the print statement will start with the 9th index and continue to the end, since the right side of the colon has no number."
+        ]
+    }
+}

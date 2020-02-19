@@ -1,0 +1,43 @@
+{
+    "uid": "63976c46e03da86aef685a94467457a19fbebbe0956af0de1f2bfea4f7b6c4a8",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        31,
+        45
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is a valid declaration of a dictionary in Python?",
+        "snippet": null,
+        "choices": [
+            "dict={'Country':'India','Capital':'Delhi','PM':'Modi'}",
+            "dict=['Country':'India','Capital':'Delhi','PM':'Modi']",
+            "dict={'Country'-'India','Capital'-'Delhi','PM'-'Modi'}",
+            "dict={'Country','India','Capital','Delhi','PM','Modi'}"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: The valid declaration of a Python dictionary object is dict = {}, for a blank dictionary or dict = {key:value, ... key_n:value_n}.",
+            "Incorrect: This tries to use a list as a dictionary, since square brackets create list objects, and is invalid syntax.",
+            "Incorrect: You must use a colon as the key:value separator, not dash; this is invalid syntax.",
+            "Incorrect: This creates a set, not a dictionary."
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "6a4269727e20c4260e8d6282382b6406d493c7b2c32a325854413b175db3cd66",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who represents the interests of the stakeholders?",
+        "snippet": "",
+        "choices": [
+            "Scrum Team",
+            "Development Team",
+            "Scrum Master",
+            "Product Owner"
+        ],
+        "answer": 3,
+        "explanation": [
+            "The Product Owner should be in constant contact with the stakeholders and update the backlog to reflect that interaction."
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "a1c4b58186588cfc65c1997d0ea5fb3f28cd2308a433f2f3cd56bfbfc1be09cc",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853,
+        1342
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who can change the Sprint Backlog during the Sprint?",
+        "snippet": null,
+        "choices": [
+            "No one",
+            "The Development Team and the Product Owner together",
+            "The Development Team",
+            "The Product Owner"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The Product Backlog items in the Sprint Backlog do not change but another element in the Sprint Backlog is the tasks and they are always changing. This is the responsibility of the Development Team to make changes in the Sprint Backlog tasks; while they may also \"consult\" the Product Owner for this."
+        ]
+    }
+}

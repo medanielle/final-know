@@ -1,0 +1,37 @@
+{
+    "uid": "e3689a54aa740c3e9bc0b0ce2d8626a476b9726cb91a7b2c706b0bb8bbaf27d0",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Who assigns tasks to the developers?",
+        "snippet": null,
+        "choices": [
+            "Product Owner",
+            "Scrum Master",
+            "Project Manager",
+            "Developers themselves"
+        ],
+        "answer": 3,
+        "explanation": [
+            "The developers are responsible for their own tasks and the development team makes sure the tasks are done. The Product Owner is only concerned with how well the items meet the definition of 'Done'."
+        ]
+    }
+}

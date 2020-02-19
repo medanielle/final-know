@@ -1,6 +1,6 @@
 ## Which of these data structures has a constant search time for the worst case scenario?
 
-KSAs: 263, 269, 407
+KSAs: 140, 263, 269
 
 ## Answer
 | A | B | ***C*** | D |

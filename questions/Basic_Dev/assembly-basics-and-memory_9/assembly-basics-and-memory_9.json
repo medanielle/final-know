@@ -1,0 +1,50 @@
+{
+    "uid": "e7d135d117be2bd526eaafe5b5eb613edcddc68f18e69f422bce32d83e4ca07b",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        596,
+        597,
+        598,
+        600,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, for a 64-bit register rdx, its 32-bit sub register is ____.",
+        "snippet": null,
+        "choices": [
+            "eax",
+            "dx",
+            "edx",
+            "rdl"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: eax is the 32-bit sub register for rax",
+            "Incorrect: dx is the 16-bit sub register for rdx",
+            "Correct: edx is the 32-bit sub register for rdx",
+            "Incorrect: rdl is not a valid register name"
+        ]
+    }
+}

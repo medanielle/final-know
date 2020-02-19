@@ -1,0 +1,43 @@
+{
+    "uid": "399ab549267e2ad919a5ca9dd2bd2f6eb6d1d37cb4a64b43fed5221a999314c0",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        573,
+        597,
+        580,
+        659,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly with a 32-bit architecture, what happens when an add or sub operation causes the 33rd bit to be modified?",
+        "snippet": null,
+        "choices": [
+            "The Carry Flag is set",
+            "the rax register is set to 1",
+            "the unsigned number becomes signed",
+            "a virtual 64-bit register is created"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Carry Flag (CF) is set when an arithmetic borrow or carry occurs during add/sub - e.g. the result of an add would have set bit 33 (in x86), or bit 65 (in x86_64)"
+        ]
+    }
+}

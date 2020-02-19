@@ -1,0 +1,44 @@
+{
+    "uid": "6623d92a8a0b0e4958b30d32d5ef12d95d5f737b7f81bc3c8be83ada4ca08401",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.2",
+        "3.7.3"
+    ],
+    "ksas": [
+        229,
+        232
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "An IPV4 octet's number ranges from:",
+        "snippet": null,
+        "choices": [
+            "1 to 254",
+            "0 to 196",
+            "10 to 255",
+            "0 to 255"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: Does not include 0 and 255.",
+            "Incorrect: Does not include 197 to 255.",
+            "Incorrect: Does not include 0 to 9.",
+            "Correct: An IPv4 address is made up of octets, an octet being an eight-bit value. So you can only have 256, so 0 to 255"
+        ]
+    }
+}

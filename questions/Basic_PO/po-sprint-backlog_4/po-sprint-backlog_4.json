@@ -1,0 +1,36 @@
+{
+    "uid": "af9e7d075d4a1868bc8561978412516e5b077097f9e5695d6644ba691e79dbcd",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853,
+        1342
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Each Sprint Backlog Item should be owned by a Development Team member.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Items and tasks in the Sprint Backlog are not owned by any specific person; ownership and accountability is shared. Tasks are assigned to one developer or a pair of developers but they don't own the task; they are just responsible for doing the task and everyone stays accountable (owner). The Sprint Backlog items are not even assigned to people because each item requires multiple expertise and usually done with the help of multiple people in the team."
+        ]
+    }
+}

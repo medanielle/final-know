@@ -1,0 +1,36 @@
+{
+    "uid": "454e92935ce2a931d063c25a2cdad7c11ffb4f41fa29f08645b81cd9f3b9322f",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        909,
+        910
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-12 15:52:03",
+    "revision_date": "2019-12-12 15:52:03",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "More features always bring more value.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "It depends on the features and the quality of delivery. Having a lot of features doesn't guarantee that they include the most important ones. More importantly, having more features may increase the maintenance cost which decreases the overall value. One of the Agile principles is simplicity: the art of maximizing the amount of work not done."
+        ]
+    }
+}

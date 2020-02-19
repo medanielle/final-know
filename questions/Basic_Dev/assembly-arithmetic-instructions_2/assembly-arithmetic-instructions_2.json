@@ -1,0 +1,47 @@
+{
+    "uid": "1aa4a06cbf07bcf5f10c93bcde4e0a9e9ebefef5f060a6b3f67de00f49e0f41b",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        596,
+        655,
+        1166,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which register in Assembly is the default register used for a counter?",
+        "snippet": null,
+        "choices": [
+            "rax",
+            "rcx",
+            "rdx",
+            "rdi"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: rax is where values are returned from functions",
+            "Correct: rcx is the default counter register",
+            "Incorrect: rdx can be freely used but is not the default counter",
+            "Incorrect: rdi is used in 64-bit Linux as function argument #1 and in 64-bit Windows it's preserved"
+        ]
+    }
+}

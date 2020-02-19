@@ -1,0 +1,50 @@
+{
+    "uid": "7a5e7f0d4a6ef22c3cbf6fe6b319b0ec1e5c0bb5ce397c3e56da87bbf1538a8a",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The above Assembly code stores a memory address in the rax register.  Which instruction would store data at that address?",
+        "snippet": "1 | mov rax, 0xc0ffee\n2 | ",
+        "choices": [
+            "mov rax, 100",
+            "mov [rax], 100",
+            "add rax, 100",
+            "mov 0xc0ffee, 100"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: this instruction would replace the memory address in rax with the value 100",
+            "Correct: to access the data for a given memory address, you use the [] brackets",
+            "Incorrect: this command would simply modify the memory address",
+            "Incorrect: the mov command needs to be followed by a valid operand (in this case a valid register name)"
+        ]
+    }
+}

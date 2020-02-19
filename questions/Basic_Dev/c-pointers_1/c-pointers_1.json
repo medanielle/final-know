@@ -1,0 +1,40 @@
+{
+    "uid": "ee46ee5f6b992ec2d1dd03e089b397c123b3de10f0ca123d3d1373be0885f1d3",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        255,
+        262
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the above C code snippet, what is the output or result?",
+        "snippet": "1 | int x = 10;\n2 | int *y = &x;\n3 | (*y)++;\n4 | x++;\n5 | printf(\"%d\\n\",*y);\n6 | printf(\"%d\\n\",x);\n7 | ",
+        "choices": [
+            "11\n11",
+            "12\n12",
+            "11\n12",
+            "12\n11"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Line 1 x is initialized to 10, Line 2 y is a pointer that gets intialized to the address of x. Line 3 y is dereferenced (contents of x) and incremented 1 so x now contains 11. Line 4 x is incremented to 12, Line 5 prints the dereference of y (contents of x), and line 6 prints x.  Both print statements print 12"
+        ]
+    }
+}

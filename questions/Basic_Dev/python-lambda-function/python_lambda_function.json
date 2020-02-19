@@ -1,0 +1,39 @@
+{
+    "uid": "41fb4f8013cba87616fc079c0cd2b93e48db2198b5bcae11bc77f9b8f9432f3c",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        93
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "which of the following is not a difference between lambda functions and normal functions",
+        "snippet": null,
+        "choices": [
+            "lambda functions can only have one expression",
+            "lambda functions can not use the return keyword",
+            "lambda functions can not have names",
+            "lambda functions can access variables from the function that called it"
+        ],
+        "answer": 2,
+        "explanation": [
+            "While lambda functions do not require an identifier, they can still be assigned a name and then called like a normal function."
+        ]
+    }
+}

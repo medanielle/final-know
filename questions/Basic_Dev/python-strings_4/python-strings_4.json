@@ -1,0 +1,44 @@
+{
+    "uid": "061e941e031d51b163b1cd8c8b10c3d541f729b5b969e077bd4c52f6cffc9866",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.1",
+        "3.2.2"
+    ],
+    "ksas": [
+        42,
+        43
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which Python string function would you use to combine a list of strings into one string with each word separated by a space?",
+        "snippet": "1 | myList = [\"Jim\", \"Bob\", \"Matt\", \"Tom\"]\n2 | ",
+        "choices": [
+            "\" \".append(myList)",
+            "myList.append(\" \")",
+            "\" \".join(myList)",
+            "\" \".collect(myList)"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: This will attempt to append myList to the end of the space character; however, append() is not a valid string function.",
+            "Incorrect: This will append a space character to the end of myList.",
+            "Correct: This will use the space character to join the items in myList. Note, if myList has non-string types then the join operation will most likely cause an error.",
+            "Incorrect: This will attempt to use an invalid collect() string function."
+        ]
+    }
+}

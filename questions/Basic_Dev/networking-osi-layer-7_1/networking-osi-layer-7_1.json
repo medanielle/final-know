@@ -1,0 +1,47 @@
+{
+    "uid": "5764a762e963c90c3baec930f6952ca48b3dba29a04f74460c56e0372432e3f3",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216,
+        218,
+        224,
+        226,
+        1295,
+        1297
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of these is not an application layer protocol?",
+        "snippet": null,
+        "choices": [
+            "HTTP",
+            "SMTP",
+            "FTP",
+            "TCP"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: HTTP is a application protocol for distributed, collaborative, hypermedia information systems.",
+            "Incorrect: SMTP is a application protocol for electronic mail transmission.",
+            "Incorrect: FTP is a application for the transfer of computer files between a client and server on a computer network.",
+            "Correct: TCP is transport layer protocol."
+        ]
+    }
+}

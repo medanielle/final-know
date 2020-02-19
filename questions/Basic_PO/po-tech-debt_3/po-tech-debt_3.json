@@ -1,0 +1,38 @@
+{
+    "uid": "008b5d53f4262ed074787614b30dae5146737415a3d88eae36d75f83f2171eb5",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        1369
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is a reason for the Product Owner to pay attention to technical debt?",
+        "snippet": null,
+        "choices": [
+            "To track the performance of individual developers.",
+            "To understand how velocity might be affected in the future because of having too much technical debt.",
+            "There's no reason for the Product Owner to pay attention to technical aspects.",
+            "None of the above"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Technical debt is any shortcoming in the solution that makes it less than 'good enough' and might create problems in the future. When there's a lot of technical debt, the velocity might decrease in the future because developers have to deal with the shortcomings. On the other hand, this debt might even remain in the final product and make it harder and more expensive to maintain the product. Refactoring is a common way of reducing technical debt. It's when the code is improved without changing its external behavior. It's a good idea to Agile teams to spend some of their capacity on continuous refactoring. Improving the definition of 'Done' is the second way of reducing technical debt."
+        ]
+    }
+}

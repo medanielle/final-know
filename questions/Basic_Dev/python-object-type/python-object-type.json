@@ -1,0 +1,38 @@
+{
+    "uid": "4089d898a8fd3f7a03aa43b444b761604c4c6fb34114428a2076c37bfdfad3b9",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [],
+    "ksas": [
+        106,
+        107
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-18 20:31:42",
+    "revision_date": "2019-12-18 20:31:42",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above python snippet, what is myDog?",
+        "snippet": "1 | class Dog:\n2 |     def __init__(self, name):\n3 |         self.name = name \n4 |  \n5 | myDog = Dog(\"pepe\")",
+        "choices": [
+            "object",
+            "class",
+            "attribute",
+            "constructor"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Dog is a class.  myDog is an object or instance of the Dog class"
+        ]
+    }
+}

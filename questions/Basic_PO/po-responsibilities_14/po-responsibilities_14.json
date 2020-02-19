@@ -1,0 +1,37 @@
+{
+    "uid": "d1657ef37f36ef8f111b55036d01b59acfe69dcc05327f046690a869b3e95ff4",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853,
+        1342
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Owner can transfer some of his/her accountability to the developers.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The Product Owner can delegate his/her responsibilities to the development team but he/she stays accountable."
+        ]
+    }
+}

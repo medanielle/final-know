@@ -1,0 +1,40 @@
+{
+    "uid": "8c79afa7951c8f6d178133c8c2408f9adc988a139880b2b9cab082a6d2ba5821",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        881,
+        889,
+        892
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which statement is right during the Sprint?",
+        "snippet": null,
+        "choices": [
+            "Some Sprint Backlog items would be replaced with items from the Product Backlog, if the priorities change",
+            "Some Sprint Backlog items would be moved back to the Product Backlog to be completed in future Sprints",
+            "The scope may be re-negotiated as more is learned",
+            "All of the above",
+            "None of the above"
+        ],
+        "answer": 2,
+        "explanation": [
+            "During the Sprint, the Product Backlog items in the Sprint Backlog would not be added or removed but as more is learned, the scope may be clarified and re-negotiated between the Product Owner and Development Team. This is mainly focused on the interpretation of the Product Backlog items and the tasks created by decomposing them."
+        ]
+    }
+}

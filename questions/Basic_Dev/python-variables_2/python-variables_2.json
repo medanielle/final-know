@@ -1,0 +1,39 @@
+{
+    "uid": "24de569fe3f94d5b3d95809a4a867765718da6993d67124a348b1d711388b383",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [],
+    "ksas": [
+        40,
+        38,
+        37
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "On the second line of the above Python snippet, x is now 11.  What else is occuring?",
+        "snippet": "1 | x = 10\n2 | x += 1\n3 | ",
+        "choices": [
+            "The original int object was changed from 10 to 11 because it's mutable.",
+            "A new int object is created because int objects are immutable",
+            "A new int object is created because int objects are static",
+            "The original int object was changed from 10 to 11 because it's dynamic."
+        ],
+        "answer": 1,
+        "explanation": [
+            "Objects of built-in types like (int, float, bool, str, tuple, unicode) are immutable and Python int objects are not static unless they're declared as class variables."
+        ]
+    }
+}

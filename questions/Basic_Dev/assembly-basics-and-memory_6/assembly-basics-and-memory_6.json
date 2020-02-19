@@ -1,0 +1,44 @@
+{
+    "uid": "2818896fd58d56633a661de67037971b089f7b786ca5a3a7ac01da300e303753",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        576,
+        582,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What term is used for byte ordering where the least significant bytes are stored first in a memory location?",
+        "snippet": null,
+        "choices": [
+            "last in first out",
+            "little endian",
+            "big endian",
+            "first in first out"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: last in first out is a term typicaly used for a queue construct for data coming in and out of the queue",
+            "Correct: With little endian, the least significant byte of the data is placed at the byte with the lowest address",
+            "Incorrect: With big endian, The most significant byte of the data is placed at the byte with the lowest address.",
+            "Incorrect: first in first out is a term typicaly used for a stack construct for data coming in and out of the stack"
+        ]
+    }
+}

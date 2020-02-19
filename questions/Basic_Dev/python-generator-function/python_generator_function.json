@@ -1,0 +1,39 @@
+{
+    "uid": "b1ef010c1bd32860283b26fd2ed3af22096396eafc9ed2590f511cec6a245121",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        92
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is a difference between the yield keyword and the return keyword",
+        "snippet": null,
+        "choices": [
+            "yield temporarily blocks the program from executing",
+            "yield exits the program entirely",
+            "yield transfers interpreter control to the next thread in a threadpool",
+            "yield keeps function state after it returns a value"
+        ],
+        "answer": 3,
+        "explanation": [
+            "yield allows a generator function to keep its internal state after returning a value so it can be called repeatedly to iterate over data"
+        ]
+    }
+}

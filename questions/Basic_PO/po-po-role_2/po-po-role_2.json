@@ -1,0 +1,38 @@
+{
+    "uid": "1c634bafd3c736ef44ccd92af110696ff5417f6f3e906144dfa39f23b519b803",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is NOT typical work for a Product Owner between Sprint Planning and Sprint Review?",
+        "snippet": "",
+        "choices": [
+            "Collaborate with stakeholders",
+            "Refine backlog with development team",
+            "Answer developer questions about items",
+            "Assign tasks to developers"
+        ],
+        "answer": 3,
+        "explanation": [
+            "The role of assigning tasks to developers is done by the development team."
+        ]
+    }
+}

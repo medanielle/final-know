@@ -1,0 +1,42 @@
+{
+    "uid": "fdd12b7972d01f1d1b75a7ecbe156e5436b5ce4239f682091cea2fb024a45fde",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2",
+        "3.2.3",
+        "3.2.7"
+    ],
+    "ksas": [
+        32,
+        60
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "3c",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | values = [2, 3, 4, 6, 7, 9, 12, 18]\n2 | \n3 | for i in range(2, 7):\n4 |     if values[i] % 2 == 0 and values[i] % 3 == 0:\n5 |         print (values[i])\n6 | ",
+        "choices": [
+            "4\n6\n9\n12",
+            "6\n12",
+            "4\n12",
+            "3\n6\n7"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Since two parameters passed to the range function set the inclusive starting and non-inclusive ending values, the loop on line 3 starts at index 2 and goes to index 6, stepping 1 after each iteration. Line 4 checks to see if the value is a multiple of 2 and 3, making it an effective multiple of 6. Therefore, the output is 6 and 12 on their own line."
+        ]
+    }
+}

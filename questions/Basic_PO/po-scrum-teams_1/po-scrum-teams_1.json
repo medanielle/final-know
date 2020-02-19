@@ -1,0 +1,38 @@
+{
+    "uid": "fd0ef09a0768ca3d8ccfeb9ca83aebed38e93e1c43d31723fd459490ba8cdc5a",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        877
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "When forming multiple Scrum teams, which of the following are the most important considerations?",
+        "snippet": null,
+        "choices": [
+            "Proper team size",
+            "An effective mixture of skill in each team",
+            "A mixture of senior and junior developers per team",
+            "Enough skills designated to each team",
+            "Both A and B"
+        ],
+        "answer": 4,
+        "explanation": [
+            "All teams should be cross-functional with 3 to 9 members."
+        ]
+    }
+}

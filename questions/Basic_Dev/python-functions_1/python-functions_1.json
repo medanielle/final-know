@@ -1,0 +1,42 @@
+{
+    "uid": "a568480374ad0219d690f6d26a98fe15605b4dbaeaa40dbcca185170404dd804",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.1"
+    ],
+    "ksas": [
+        26
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is the proper way to declare a function header in Python?",
+        "snippet": null,
+        "choices": [
+            "def create_stuff():",
+            "create_stuff():",
+            "create_stuff:",
+            "func create_stuff()"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: This is the proper way to declare a Python function.",
+            "Incorrect: A proper Python function declaration requires the def keyword before the function prototype.",
+            "Incorrect: Without the colon it would be a variable. To be a function header, it needs to be preceded by the keyword def and () needs to be inserted between the end of create_stuff and the colon.",
+            "Incorrect: func is not a valid keyword in Python and should be changed with def. Also, a trailing colon is required."
+        ]
+    }
+}

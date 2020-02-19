@@ -1,0 +1,38 @@
+{
+    "uid": "bc62ff26b6bea32e3757394722cd2b963220d416cd3796f1abdb1971de9a2f01",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which activity is NOT the responsibility of the Product Owner?",
+        "snippet": null,
+        "choices": [
+            "Make technical decisions",
+            "Prioritize the Product Backlog",
+            "Break down Epics into User Stories",
+            "Create User Stories"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Designing the software is part of the development and should be done by the developers. They are self-organized and make technical decisions and volunteer for tasks (assign them to themselves). Estimation is the responsibility of the developers because they are the people who will develop the item. The rest are done by the Product Owner."
+        ]
+    }
+}

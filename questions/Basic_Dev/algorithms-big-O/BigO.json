@@ -1,0 +1,37 @@
+{
+    "uid": "c23ee0f31af6ca210b0e9d885805ae9c3bc2f37b4d1d54ddd68efdde6cdf809c",
+    "topic": "Algorithms",
+    "version": "3.7",
+    "jqrs": [],
+    "ksas": [
+        389
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2020-01-06 18:46:03",
+    "revision_date": "2020-01-06 18:46:03",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In computer science, what term is used for the notation to classify algorithms according to how their running time or space requirements grow as the input size grows?",
+        "snippet": "",
+        "choices": [
+            "Capacity measure",
+            "Big O notation",
+            "Complexity rating",
+            "Weighted measure"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Big-O is the common term used to classify a sorting or searching algorithm according to the size of the data structure being used."
+        ]
+    }
+}

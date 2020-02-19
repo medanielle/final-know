@@ -1,0 +1,48 @@
+{
+    "uid": "909059c0b9ab8e369af57b5271ffacfd1701ddd24d2f7396a2d42bbe5c9f1383",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, what does rax contain after all the operations?",
+        "snippet": "1 | move rax, 5\n2 | xor rax, rax\n3 | ",
+        "choices": [
+            "5",
+            "10",
+            "1",
+            "0"
+        ],
+        "answer": 3,
+        "explanation": [
+            "For XOR, if the bits from the operands are same (both 0 or both 1), the resultant bit is cleared to 0. Because both values have the same bits the resuts are all zeros"
+        ]
+    }
+}

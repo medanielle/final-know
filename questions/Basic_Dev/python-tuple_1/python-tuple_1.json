@@ -1,0 +1,46 @@
+{
+    "uid": "22e704c4526d3f3fdd871c373246901ef45914181fd8528574f1d4295a2ecff4",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        24,
+        29,
+        31,
+        32,
+        33
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 21:06:09",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is a Python tuple?",
+        "snippet": "1 | age_book = {\"Sam\" : 19, \"Timmy\" : 24, \"Beth\" : 22}\n2 | \n3 | ages = get_ages(age_book)\n4 | age_collection = [ages[0], ages[1], ages[2]]\n5 | \n6 | def get_ages(a):\n7 |     return a[\"Sam\"], a[\"Timmy\"], a[\"Beth\"]\n8 | ",
+        "choices": [
+            "age_book",
+            "ages",
+            "age_collection",
+            "Both ages and age_collection"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: This is a dictionary",
+            "Correct: get_ages returns a tuple containing all of the return values",
+            "Incorrect: This is a list",
+            "Incorrect: ages is a tuple but age_collection is a list"
+        ]
+    }
+}

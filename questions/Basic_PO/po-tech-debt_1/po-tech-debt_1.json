@@ -1,0 +1,38 @@
+{
+    "uid": "837aca24d223b71ec1d62cd6a2f95e31fd2f3d3190d4b0c8d470133531ad9dda",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is a way of decreasing technical debt?",
+        "snippet": null,
+        "choices": [
+            "Hiring an external auditor",
+            "Improving the definition of \"Done\"",
+            "Holding Hardening Sprints",
+            "All of the above",
+            "None of the above"
+        ],
+        "answer": 1,
+        "explanation": [
+            "There's usually room for improving the definition of \"Done\". A good definition will let less technical debt pass on to the next Sprints. Technical debt is minor shortcomings in the code that makes it less than \"good enough\" and therefore creates risks in the future. It usually decreases velocity in the future (because the team has to fix the shortcomings) and as some of the debt might remain in the final product, the maintenance cost will increase as well. Another Agile way of reducing technical debt is continuous refactoring."
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "uid": "59aa92254f92fceba6d8f7ca14d4b5ab22983e24e1061107b7b947787fbc5421",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        575,
+        576,
+        644,
+        1166,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In Assembly, assume the rsi register contains the address of an array.  How do you access the data in the first element of the array?",
+        "snippet": null,
+        "choices": [
+            "*rsi",
+            "rsi[0]",
+            "[rsi]",
+            "rsi->[0]"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Incorrect: this is a C language pointer expression that accesses the first array element",
+            "Incorrect: this is a C language array expression that accesses the first element",
+            "Correct: this assembly instruction accesses the first value stored at the memory address in the rsi register",
+            "Incorrect: this is not a valid assembly instruction"
+        ]
+    }
+}

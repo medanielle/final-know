@@ -1,0 +1,48 @@
+{
+    "uid": "526dc3d317c901cc7fb734091a60b8eba6e4b80082879dadb06849d13dfce5cf",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        574,
+        576,
+        578,
+        579,
+        580,
+        596,
+        655,
+        1166,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, what's contained in the rax register when finished?",
+        "snippet": "1 | mov rax, 1\n2 | shl rax, 1\n3 | shl rax, 3\n4 | ",
+        "choices": [
+            "16",
+            "8",
+            "1",
+            "2"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: mov rax, 1 establihes 00000001 in the registry, shl (shift left) 1 modifies to: 00000010 (now 2), shl 3 modifies to: 00010000 (now 16)"
+        ]
+    }
+}

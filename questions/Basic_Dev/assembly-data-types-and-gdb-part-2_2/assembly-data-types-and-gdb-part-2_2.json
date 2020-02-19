@@ -1,0 +1,45 @@
+{
+    "uid": "d5b729ee3bbb0d2893c9ed8df1c88d49f26ad829d5f14dc6ce78d43ed8274bc8",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        573,
+        576,
+        642,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the smallest addressable unit in an X86 architecture?",
+        "snippet": null,
+        "choices": [
+            "word",
+            "byte",
+            "bit",
+            "segment"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: a word is a two byte addessible unit",
+            "Correct: a byte is the smallest addressible unit",
+            "Incorrect: a bit is not individually addressible",
+            "Incorrect: a segment is a general term of a large portion of memory and contains severla bytes"
+        ]
+    }
+}

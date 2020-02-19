@@ -1,6 +1,6 @@
 ## In networking, what Layer 2 device connects two independent physical networks, does not perform error checking and does not have a buffer?
 
-KSAs: 218, 238, 1298
+KSAs: 218, 238
 
 ## Answer
 | A | ***B*** | C | D |

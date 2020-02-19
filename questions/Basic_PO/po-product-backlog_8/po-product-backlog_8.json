@@ -1,0 +1,36 @@
+{
+    "uid": "d999d79dfc7c3778ebffb966af2b504db560de6c7a3d170412325602d8518908",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873,
+        916
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Ordering the Product Backlog Items is part of the Product Backlog refinement.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Product Backlog refinement is defined in the Scrum Guide as the act of adding detail, estimates and order to the Product Backlog items. Remember that the Product Backlog refinement is an ongoing activity and is not time boxed. The rule is that it shouldn't take more than 10% of the developers' time."
+        ]
+    }
+}

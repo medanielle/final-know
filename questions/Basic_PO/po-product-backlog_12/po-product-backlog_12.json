@@ -1,0 +1,36 @@
+{
+    "uid": "fdef8c98ce6d419a8eb2d2165e8d2e5ad69b5106832ee20ff3411e18afcad77c",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The Product Owner \"owns\" the Product Backlog.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "The Product Owner is the sole responsible person and they even \"own\" the Product Backlog. Note: remember that the Sprint Backlog is owned by the Development Team. This is not in contrast to the fact that the Product Backlog items are estimated by the developers; they provide this information to the Product Owner to be included in the Product Backlog. There are multiple implications by saying that the Product Owner \"owns\" the Product Backlog or is the sole responsible person, including: (a) Only they can add items to the backlog or decompose them into smaller items; while this is done by input from the customers and developers, and even the Product Owner can delegate this responsibility to the developers. (b) Only they can decide on the order of the items on the Product Backlog, while this is usually based on the input from customers and developers."
+        ]
+    }
+}

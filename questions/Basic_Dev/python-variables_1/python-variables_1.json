@@ -1,0 +1,40 @@
+{
+    "uid": "91d90d2b4275eb308abf5f58235eb48ec82fdd5c3f6d7b7fb02089631245991b",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        27,
+        25
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the Python function defined above, which of the following are valid calls to the function?",
+        "snippet": "1 | def printStuff(stuff):\n2 |     print (stuff)\n3 | ",
+        "choices": [
+            "printStuff(34)",
+            "printStuff(\"Hello\")",
+            "printStuff(True)",
+            "all the above are valid calls"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Since the input parameter, stuff, is not restricted to a specific type, any type can be passed to the function. Therefore, all options are correct."
+        ]
+    }
+}

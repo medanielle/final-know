@@ -1,0 +1,42 @@
+{
+    "uid": "43d28f732896588089afa7f2081fa1f1cec88b1057145f9918081c295fa37241",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        139
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 1,
+    "creation_date": "2019-11-18",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is NOT a term associated with a linked list?",
+        "snippet": null,
+        "choices": [
+            "Index",
+            "Head",
+            "Node",
+            "Next"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Index is a term used for arrays",
+            "Head is typcially a reference to the head of a linked-list",
+            "Nodes are what is used to create each node in a linked-list",
+            "Next is a standard term used in a linked-list to refer to either another Node or Null"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "764a7399aa32e3b371b81796fdac52a25a775ee6ea5f95f98b34731ad3865703",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        218
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-09-26",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "This networking OSI layer establishes, manages and terminates connections between applications",
+        "snippet": null,
+        "choices": [
+            "Data Link (layer 2)",
+            "Network (layer 3)",
+            "Session (layer 5)",
+            "Physical (layer 1)"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Layer 2 is where data packets are encoded and decoded into bits. It furnishes transmission protocol knowledge and management and handles errors in the physical layer.",
+            "Layer 3 provides switching and routing technologies, creating logical paths",
+            "Layer 5 establishes, manages and terminates connections between applications",
+            "Layer 1 conveys the bit stream - electrical impulse, light or radio signal through the network at the electrical and mechanical level."
+        ]
+    }
+}

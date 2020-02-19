@@ -1,0 +1,37 @@
+{
+    "uid": "1eeb90224f7c7090455bb7500e970228eab90130c2452d672a9cbdd6d4728891",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "When is a Sprint Backlog item considered complete?",
+        "snippet": null,
+        "choices": [
+            "When all of its tasks are complete",
+            "When the Sprint is over",
+            "When everything is done based on the definition of \"Done\"",
+            "When the user acceptance tests are done"
+        ],
+        "answer": 2,
+        "explanation": [
+            "When the item is complete based on the definition of \"Done\", the end users can use it and it creates an Increment of working software which is potentially releasable. Note: if all the tasks for an item are complete, it doesn't necessarily mean that the item is complete because we might have forgotten to add some of the tasks."
+        ]
+    }
+}

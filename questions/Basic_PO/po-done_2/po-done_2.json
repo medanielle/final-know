@@ -1,0 +1,37 @@
+{
+    "uid": "a836538c68606f37132ea48ec8a4fd5de59e1e22433bcae35344b0c85c77c085",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is NOT a benefit of having tests in the definition of \"Done\"?",
+        "snippet": null,
+        "choices": [
+            "Increments would be more complete",
+            "Increments would be closer to being potentially shippable",
+            "Increased transparency of the Increments",
+            "Reporting would be easier for the project manager"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Items are not really done unless we have tested them; so, tests should be included in the definition of \"Done\". In this case, the Increments will be closer to what we can practically call \"complete\", \"done\", \"potentially releasable\", or \"potentially shippable\"; to something useable for the users. Increments should be potentially releasable; for starters, because it makes it easier for the customer to try it and give feedback. The feedback enables adaptation, which is essential to Agile. Having an effective definition of \"Done\" increases transparency because everyone will know what we mean when we say an item is done."
+        ]
+    }
+}

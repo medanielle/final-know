@@ -1,0 +1,39 @@
+{
+    "uid": "0b8b51a99d16293dd5860ac75d3c3a291ff542256602b75a9a958488e0af8cfe",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        860
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following are ways for the stakeholders to interact with the Development Team?",
+        "snippet": null,
+        "choices": [
+            "At the Sprint Retrospective",
+            "Via the Product Owner",
+            "At the Sprint Review",
+            "Both A and C",
+            "Both B and C"
+        ],
+        "answer": 4,
+        "explanation": [
+            "We don't want the team to be distracted; they need to stay focused and productive. That's why their direct interactions with the customer is limited to the Sprint Review or via the Product Owner."
+        ]
+    }
+}

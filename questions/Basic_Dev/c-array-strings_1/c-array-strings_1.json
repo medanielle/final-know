@@ -1,0 +1,40 @@
+{
+    "uid": "3d40a6189a950aef04d63bf03b5ab99eba4d502b36a9e75d4a517502420a3bb0",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        263,
+        350
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the difference between str1 and str2 if they are used as arguments to the printf() function with a string format?",
+        "snippet": "1 | char str1[5] = {'H', 'e', 'l', 'l', 'o'};\n2 | char *str2 = \"Hello\";\n3 | ",
+        "choices": [
+            "str1 may display additional text",
+            "str1 will have commas in between the letters when passed as an argument to printf()",
+            "str1 will only print out the first letter, H",
+            "There is no difference between them"
+        ],
+        "answer": 0,
+        "explanation": [
+            "When assigning a string using double quotes the compiler adds a null terminator. str1 is assigned an array explicitly without a null terminator. When passed to printf() if the byte after the 'o' is not a null terminator it will continue printing text until a null terminator is found in memory or the program crashes."
+        ]
+    }
+}

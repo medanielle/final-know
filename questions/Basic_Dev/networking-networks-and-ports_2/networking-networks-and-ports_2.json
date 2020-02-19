@@ -1,0 +1,42 @@
+{
+    "uid": "a4f1ace73687a7a0ccb8aff34e487a279e805b115930dbcca51941ca38260fa2",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        1293
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In networking and typically reserved for servers, which port numbers are considered \"privileged\" ports?",
+        "snippet": null,
+        "choices": [
+            "< 1024",
+            "< 2048",
+            "> = 1024",
+            "> = 2048"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: Ports below 1024 are special in that normal users are not allowed to run servers on them.",
+            "Incorrect: Although some ports of this range are priviledged only ports below 1024 are privileged ports.",
+            "Incorrect: Only ports below 1024 are privileged.",
+            "Incorrect: Only ports below 1024 are privileged."
+        ]
+    }
+}

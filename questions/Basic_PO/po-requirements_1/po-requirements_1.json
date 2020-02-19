@@ -1,0 +1,40 @@
+{
+    "uid": "92aa5fde613c3f9b6ea6d31172184b2b20b2bfb33b4454400c1c36b420f7e602",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        852,
+        853,
+        910
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "If the customer wants a new feature to be added to the current Sprint, how should the Development Team respond?",
+        "snippet": null,
+        "choices": [
+            "Ask the Product Owner to work with the customer",
+            "Add the item to the bottom of the Sprint Backlog",
+            "Reject the request",
+            "Add the item to the Product Backlog",
+            "Swap the item with one of the items in the Sprint Backlog"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Such a request would be rejected because we don't add or remove the items in the Sprint Backlog (while we always add and remove tasks). However, this is up to the Product Owner to reject this request, rather than the developers. So, they should just refer the customer to the Product Owner. In very special cases, the new feature might be so special and the project environment so influenced that the introduction of the new feature makes the current Sprint Goal invalid and therefore the Product Owner will cancel the Sprint. Remember, this doesn't happen often."
+        ]
+    }
+}

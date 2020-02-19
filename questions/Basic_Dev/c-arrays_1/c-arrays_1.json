@@ -1,0 +1,43 @@
+{
+    "uid": "1596f7e95276f27542528c8110098e77474a30d5fd1d942e5ea3d0f3cc5a4e71",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        263,
+        1338
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is occuring in the C program snippet above?",
+        "snippet": "1 | int inputBuffer [256] = {0};\n2 | ",
+        "choices": [
+            "Zero is placed only in the first element of the array.",
+            "Zero is placed in all elements of the array.",
+            "null is being placed in all elements of the array.",
+            "Number 0 through 255 are being placed in the array."
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: to place a zero in just first element would be done after the array is declared on the next line:  inputBuffer[0] = 0;",
+            "Correct: Using the curly braces allows you to initialize an array when it is declared. In this case it initialize the first element to 0, but will also by default initialize all the remaining elements to zero",
+            "Incorrect: you cannot initialize an integer to null",
+            "Incorrect: the numbers are all set to zero, they do not authomatically increment for each element"
+        ]
+    }
+}

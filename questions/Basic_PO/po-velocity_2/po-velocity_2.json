@@ -1,0 +1,35 @@
+{
+    "uid": "87c449cb3b6c4b3f49ffd9be42c698bde642c5a3357b214f6e72276d88583fe6",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        1369
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-12-12 15:52:03",
+    "revision_date": "2019-12-12 15:52:03",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "A key measure of success for the Product Owner is velocity.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Velocity is a relative concept which cannot be compared with other projects and other teams. Even when it's considered inside the project, while it's important, it's not the key measure of success. The Product Owner should be focused on how much value is delivered and anything else might be misleading."
+        ]
+    }
+}

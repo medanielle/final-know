@@ -1,0 +1,41 @@
+{
+    "uid": "f374693c087ace47d8de1c8f6df1f92c3493838bde5eec81f3be705d6604addc",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216,
+        217,
+        1293
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Jimmy sent a package to Dean and noticed the source port was 51234 and the destination port was 666 on one of the TCP packets.  The difference between these two port types is ___.",
+        "snippet": null,
+        "choices": [
+            "port 51234 is assigned by IANA whereas 666 is never assigned.",
+            "port 51234 is a registered port whereas 666 is an ephemeral port.",
+            "other than the numbers, there is no difference.",
+            "port 51234 is an ephemeral port whereas 666 is a well-known port."
+        ],
+        "answer": 3,
+        "explanation": [
+            "IAW RFC 6335, ports 0 - 1023 are considered system, or well-known, ports; 1024 - 49151 are considered user, or registered ports; and 49152 - 65535 are dynamic, private, or ephemeral ports. The dynamic ports are never assigned."
+        ]
+    }
+}

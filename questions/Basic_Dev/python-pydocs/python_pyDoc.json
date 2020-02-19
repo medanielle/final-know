@@ -1,0 +1,39 @@
+{
+    "uid": "e9884da3fda2650c6b8adc7ce4ef6d217cf31230d20df34fcfe62d664e7b0c6b",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        87
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "A",
+    "complexity": 1,
+    "etc": 0.5,
+    "creation_date": "2019-10-23",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What python module automatically generates documentation from Python modules?",
+        "snippet": null,
+        "choices": [
+            "document",
+            "pyDoc",
+            "modDocs",
+            "pyComments"
+        ],
+        "answer": 1,
+        "explanation": [
+            "pyDocs is a module that will generate documents based off comments embedded in your code."
+        ]
+    }
+}

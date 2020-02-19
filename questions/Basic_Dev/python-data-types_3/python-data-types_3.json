@@ -1,0 +1,42 @@
+{
+    "uid": "92fc2a2b3db4ce0e57239983359691b06cbe39701dc4d2af1a98333e45882264",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2"
+    ],
+    "ksas": [
+        32
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-10 17:49:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Given the above Python code snippet, how would you print out the word:  Aaron?",
+        "snippet": "1 | People = [\n2 |     [\"George\",\"Jones\"],\n3 |     [\"Bill\",\"Johnson\"],\n4 |     [\"Hank\",\"Aaron\"]\n5 | ]\n6 | ",
+        "choices": [
+            "print(people[2][\"Hank\"])",
+            "print(people[3][2])",
+            "print(people[2,1])",
+            "print(people[2][1])"
+        ],
+        "answer": 3,
+        "explanation": [
+            "Incorrect: people[2][\"Hank\"] is invalid syntax because list indices must be integers, not string.",
+            "Incorrect: people[3][2] tries to access the third item, index 2, in a fourth nested list, index 3; however, both do not exist and are out of range. Remember, the index always starts at 0.",
+            "Incorrect: people[2,1] tries to use a tuple of (2,1) to access a list item but this is invalid syntax because list indices must be integers.",
+            "Correct: people[2][1] accesses the second item, index 1, in the third nested list, index 2."
+        ]
+    }
+}

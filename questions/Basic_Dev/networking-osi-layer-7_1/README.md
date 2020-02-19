@@ -1,6 +1,6 @@
 ## Which of these is not an application layer protocol?
 
-KSAs: 216, 218, 224, 226, 1295, 1297, 1298
+KSAs: 216, 218, 224, 226, 1295, 1297
 
 ## Answer
 | A | B | C | ***D*** |

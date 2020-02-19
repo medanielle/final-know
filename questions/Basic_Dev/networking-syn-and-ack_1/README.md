@@ -1,6 +1,6 @@
 ## In networking, which number type starts at the random number chosen during the handshake and is cumulative and is used to maintain accountability of all packets?
 
-KSAs: 216, 1298
+KSAs: 216
 
 ## Answer
 | ***A*** | B | C | D |

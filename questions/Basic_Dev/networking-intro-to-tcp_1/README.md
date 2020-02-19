@@ -1,6 +1,6 @@
 ## A server sends a SYN-ACK to a client's SYN request. This is step 2 of a 3-way process of what communication protocol?
 
-KSAs: 216, 1298
+KSAs: 216
 
 ## Answer
 | A | ***B*** | C | D |

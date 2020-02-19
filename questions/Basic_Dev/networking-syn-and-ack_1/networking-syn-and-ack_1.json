@@ -1,0 +1,42 @@
+{
+    "uid": "cc1ccfa03d7f5fbf07eab8b4df9e51d46ff703f8b6afd913a9671cd55131ca88",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In networking, which number type starts at the random number chosen during the handshake and is cumulative and is used to maintain accountability of all packets?",
+        "snippet": null,
+        "choices": [
+            "Sequence",
+            "Reserved",
+            "Nonce Sum",
+            "Acknowledgement"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: A sequence number is a number assigned to data fragments by Stream Control Transmission Protocol (SCTP).",
+            "Incorrect: A reserved number is typically used in the port assignment.",
+            "Incorrect: A nonce sum is a sign to designate error between ECN-nonce supporting endpoints.",
+            "Incorrect: A acknowledgement number type identifies the byte in the stream of data from the sending TCP to the receiving TCP that the first byte of data in this segment represents."
+        ]
+    }
+}

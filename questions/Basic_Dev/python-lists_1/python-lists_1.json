@@ -1,0 +1,40 @@
+{
+    "uid": "725f7fc8211a5f1a4de346e551e36910d7f070f586f811f292223923c024dce4",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.2\n3.2.7"
+    ],
+    "ksas": [
+        42,
+        43
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:39:06",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What will be the output of the above Python code snippet?",
+        "snippet": "1 | names1 = ['Amir', 'Bala', 'Chales']\n2 | \n3 | if 'amir' in names1:\n4 |     print (1)\n5 | else:\n6 |     print (2)\n7 | ",
+        "choices": [
+            "Amir",
+            "1",
+            "2",
+            "Bala"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Looking at Line 3, the conditional compares 'amir' with anything in the names1 list. Since 'Amir' is not the same as 'amir', the condition becomes False and 2 is printed."
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "uid": "947e8b28599a473887b2d2111b4718f5c454cef7a8e0182bd297910e856f45a8",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        1373
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Scrum is an iterative and incremental Agile framework.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Scrum is iterative because processes are repeated in each Sprint. It's incremental because it delivers the product in multiple incremental steps instead of in a big bang. And of course it's Agile (adaptive instead of predictive)."
+        ]
+    }
+}

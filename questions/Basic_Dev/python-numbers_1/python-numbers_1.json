@@ -1,0 +1,41 @@
+{
+    "uid": "3a867c50dc0ef7c83ff5e57f34cb85fe3ee770296d8a0db741ce50e1ab05043d",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.7"
+    ],
+    "ksas": [
+        32,
+        58,
+        60
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "3c",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What is the output for the above Python code snippet?",
+        "snippet": "1 | numbers = [2, 3, 4, 5, 6]\n2 | for x in numbers:\n3 |     if x % 2 == 0:\n4 |         print (x*x, end = \" \")\n5 |     else:\n6 |         print (x, end = \" \")\n7 | ",
+        "choices": [
+            "4 3 9 5 36",
+            "4 3 16 5 36 7",
+            "4 3 16 5 36",
+            "2 3 16 5 36"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Line 1 creates a sequential list of 5 numbers, starting with 2. Then every number in the list (line 2) is compared to see if that number modulus 2 equals 0 (line 3). Because we are dividing by 2 and comparing the remainder with 0, all even numbers will be True and odd False. If the statement is True then the number squared is printed (line 4); otherwise, just the number is printed (line 6). Both print statements use the space character instead of the \n character (as seen with end = \" \"); this causes all numbers to stay on the same line. Therefore, the output is 4 3 16 5 36."
+        ]
+    }
+}

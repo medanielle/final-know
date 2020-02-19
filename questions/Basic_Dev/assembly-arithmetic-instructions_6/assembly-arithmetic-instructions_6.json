@@ -1,0 +1,43 @@
+{
+    "uid": "de1f6cffb2cd7c7ddf61ee1f8439705320ad975ee0d0d2a6752fc9f5e8c3035d",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        580,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:07",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The primary opcode to increment a number in a register by 1 is:",
+        "snippet": null,
+        "choices": [
+            "++",
+            "inc",
+            "dec",
+            "mov"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: ++ is not a valid assembly opcode",
+            "Correct: inc is the assembly opcode to increment a number by 1",
+            "Incorrect: dec is the assembly opcode to decrement a number by 1",
+            "Incorrect: mov puts a value (replaces current value) in a register"
+        ]
+    }
+}

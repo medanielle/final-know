@@ -1,0 +1,40 @@
+{
+    "uid": "6da10503205e546064fa150a3dfbdfbb26bcd8eb0f2e2a990f93474ff8cca14f",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.19",
+        "Not in JQR"
+    ],
+    "ksas": [
+        287
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 20:39:06",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What will be printed in the above code?",
+        "snippet": "1 | printf(\"%d\", 12 & 12);\n2 | ",
+        "choices": [
+            "0",
+            "24",
+            "12",
+            "1212"
+        ],
+        "answer": 2,
+        "explanation": [
+            "The & (and operator) does a bit by bit comparison of each value.  If both bits are 1 then the result is a 1. Because both values are the same, they will have the same bits set to 1 therefore resulting in same binary number of of 00001100"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "ba1ec69f16ad5b768364365574b5523cdc1763e18f376d26287cd78ebe597b4d",
+    "topic": "Python",
+    "version": "3.7",
+    "jqrs": [
+        "3.2.3"
+    ],
+    "ksas": [
+        58
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which is the correct operator to use an exponent?",
+        "snippet": null,
+        "choices": [
+            "x^y",
+            "x**y",
+            "x^^y",
+            "x(pow)y"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: This is the exclusive or bitwise operator.",
+            "Correct: This operator will take x to the power of y.",
+            "Incorrect: Using ^^ doesn't take x to the power of y.",
+            "Incorrect: This is taking some variable named pow into function x and doesn't appear to use y at all. This is not a valid Python statement."
+        ]
+    }
+}

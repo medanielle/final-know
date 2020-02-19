@@ -1,0 +1,35 @@
+{
+    "uid": "ca9f399298efb297ce1694021335f142a60cdaf5e8290c216147bc83ec385544",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        916
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2019-12-11 20:11:44",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "It is OK for the items at the bottom of the Product Backlog to have less detail compared to those at the top.",
+        "snippet": null,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Items on the bottom of the Product Backlog won't be developed soon, therefore, we don't need to spend too much time on them. Otherwise, it would be a form of upfront planning."
+        ]
+    }
+}

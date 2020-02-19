@@ -1,0 +1,39 @@
+{
+    "uid": "7eaffb1d6d1147510cbda5e92fc90912976db9362fa7dbd3801a3282860ab1ae",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        853,
+        1342
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which role is the equivalent of Project Manager in Scrum?",
+        "snippet": null,
+        "choices": [
+            "The Product Owner",
+            "The Team Leader(s)",
+            "The Development Team",
+            "The Scrum Master",
+            "None of the above"
+        ],
+        "answer": 4,
+        "explanation": [
+            "The project management activities are distributed among all three roles."
+        ]
+    }
+}

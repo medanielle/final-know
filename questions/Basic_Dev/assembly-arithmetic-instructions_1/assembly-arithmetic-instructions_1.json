@@ -1,0 +1,48 @@
+{
+    "uid": "673e5d589ce718c8a38a61a05139b288ec4360f08f8d25130d491b3d0399348f",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        573,
+        574,
+        576,
+        578,
+        579,
+        580,
+        597,
+        655,
+        1167,
+        1172
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-17 18:31:33",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "In the above Assembly code, what does eax contain after all the operations?",
+        "snippet": "1 | mov eax, 12\n2 | mov ebx, 4\n3 | add eax, ebx\n4 | inc ebx\n5 | inc eax\n6 | shr eax, 1\n7 | ",
+        "choices": [
+            "17",
+            "16",
+            "8",
+            "18"
+        ],
+        "answer": 2,
+        "explanation": [
+            "Line 1 moves the value 12 into the eax register and line 2 moves the value 4 into the ebx register. Line 3 adds the two values, storing the result (16) in the eax register. Line 4 can be ignored since the ebx register isn't used anymore. Line 5 increments the eax register value by one, now (17), and line 6 moves bit values right one spot, from 0001 0001 (17) to 0000 1000 (8)."
+        ]
+    }
+}

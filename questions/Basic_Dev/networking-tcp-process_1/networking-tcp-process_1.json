@@ -1,0 +1,42 @@
+{
+    "uid": "75934ccbc644777de67e771299e02d443bb13c1be2ae9a835fae3df73fc1f906",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.1"
+    ],
+    "ksas": [
+        216
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2020-01-23 19:09:25",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The TCP process may not write and read data at the same speed, so ______ are needed for storage.",
+        "snippet": null,
+        "choices": [
+            "packets",
+            "buffers",
+            "segments",
+            "stacks"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Incorrect: Packets will contain the initial data but will not store data for later usage.",
+            "Correct: Buffers will hold the data until the process is ready to read or write.",
+            "Incorrect: A network segment is a portion of a computer network that is separated from the rest of the network by a device such as a repeater, hub, bridge, switch or router.",
+            "Incorrect: Although a stack is a type of buffer, stacks are mainly used to control data input and output in a prespecified order."
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "f33f86e6b1912f34c5840b7a2f8eac6e4a2a7ff2c2240f706730cff8df7f92f4",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        1342
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "C",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "When does the Development Team prepare the tools and infrastructure for the development?",
+        "snippet": null,
+        "choices": [
+            "Throughout the project",
+            "Before the first Sprint",
+            "In Sprint Zero",
+            "None of the above"
+        ],
+        "answer": 0,
+        "explanation": [
+            "We do not prepare the infrastructure and tools upfront because it requires an understanding of the whole product, which is against the adaptive concept. The required infrastructure and tools depend on the product we're going to create, which in turn is defined through the project. The infrastructure and tools will be prepared gradually though the project. There's no Sprint zero in Scrum. All Sprints are the same; to create an Increment of working software."
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "687781437548dafce4d85a35bf23d60efe53a917a17a8d880d2a07ceb7ad7a0a",
+    "topic": "C Programming",
+    "version": "C89",
+    "jqrs": [
+        "3.1.1"
+    ],
+    "ksas": [
+        261,
+        266
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following are valid loop keywords in C?",
+        "snippet": null,
+        "choices": [
+            "for",
+            "do while",
+            "repeat",
+            "both a and b"
+        ],
+        "answer": 3,
+        "explanation": [
+            "There are 3 types of loops in C programming:  while, do while, and for"
+        ]
+    }
+}

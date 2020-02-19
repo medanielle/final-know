@@ -1,0 +1,37 @@
+{
+    "uid": "d61d82eefe745cc1e29766b5e08876dd1140827bd354b29a86f0b120f1f05369",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        1373
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-10 18:13:19",
+    "revision_date": "2019-12-10 18:13:19",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "What's the optimal length of a Sprint?",
+        "snippet": null,
+        "choices": [
+            "Short enough to minimize risk",
+            "One week",
+            "Two weeks",
+            "One month"
+        ],
+        "answer": 0,
+        "explanation": [
+            "We prefer shorter Sprints as long as we can produce enough output. Shorter Sprints reduce the risk to the business."
+        ]
+    }
+}

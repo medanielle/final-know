@@ -1,0 +1,42 @@
+{
+    "uid": "13b876d10f58567b3f87d84218d5b75fe20fcb258d593411f21a43d3126ef7dd",
+    "topic": "Networking",
+    "version": null,
+    "jqrs": [
+        "3.7.3"
+    ],
+    "ksas": [
+        229,
+        230,
+        232,
+        233
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-20 16:09:58",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "The size of an IPv6 address differs from an IPv4 address because it has ___ compared to IPv4's ___?",
+        "snippet": null,
+        "choices": [
+            "32 bits, 128 bits",
+            "128 bits, 32 bits",
+            "64 bits, 32 bits",
+            "100 bits, 64 bits"
+        ],
+        "answer": 1,
+        "explanation": [
+            "An IPv6 address has 128 bits, 16 bytes X 8 bits, and an IPv4 address has 32 bits, 4 bytes X 8 bits."
+        ]
+    }
+}

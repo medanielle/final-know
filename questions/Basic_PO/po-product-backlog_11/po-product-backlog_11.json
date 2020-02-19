@@ -1,0 +1,38 @@
+{
+    "uid": "3f9b4cac1b85b20978875212431b6991c0423184a3bad8dffa01bead5f0d94ea",
+    "topic": "Product Owner",
+    "version": "",
+    "jqrs": [],
+    "ksas": [
+        873
+    ],
+    "workrole": [
+        "Basic PO"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2,
+    "creation_date": "2019-12-11 20:11:44",
+    "revision_date": "2020-01-08 17:51:10",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "A requirement baseline in Scrum is called a:",
+        "snippet": null,
+        "choices": [
+            "Release Plan",
+            "There are no baselines in Scrum",
+            "Sprint Backlog",
+            "Product Vision",
+            "\"Ready\" Product Backlog"
+        ],
+        "answer": 1,
+        "explanation": [
+            "\"Baselining\" is a term used in traditional environments for referring to a finalized upfront plan that would be followed in the future and used for evaluating the actual performance. There's no upfront planning and no baselines in Scrum."
+        ]
+    }
+}

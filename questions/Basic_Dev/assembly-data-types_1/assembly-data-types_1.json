@@ -1,0 +1,45 @@
+{
+    "uid": "da6bb9f83e9460a107c4c0804aadb74990e97cc8fceefd6144a922bfb61db7c2",
+    "topic": "Assembly",
+    "version": "x86/x86_64",
+    "jqrs": [
+        "Not in JQR"
+    ],
+    "ksas": [
+        576,
+        578,
+        642,
+        1166
+    ],
+    "workrole": [
+        "Basic Dev"
+    ],
+    "proficiency": "B",
+    "complexity": 1,
+    "etc": 2.25,
+    "creation_date": "2019-08-21 10:41:49",
+    "revision_date": "2019-12-06 21:20:08",
+    "revision_number": 1,
+    "disabled": false,
+    "provisioned": 0,
+    "passes": 0,
+    "attempts": 0,
+    "failures": 0,
+    "knowledge": {
+        "question": "Which of the following is a valid example of declaring and instantiating a variable in Assembly programming?",
+        "snippet": null,
+        "choices": [
+            "age DW 12345",
+            "age int 12345",
+            "age  DW=12345",
+            "age 12345"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Correct: variables are declared and instantiated with a name, type, and value each separated by a space. DW (define word) is valid data type in assembly",
+            "Incorrect: variables are declared and instantiated with a name, type, and value each separated by a space. int is valid data type in assembly",
+            "Incorrect: the = operator is not valid syntax for initilizing a variable in assembly",
+            "Incorrect: variables are declared and instantiated with a name, type, and value each separated by a space. no data type is provide here"
+        ]
+    }
+}
